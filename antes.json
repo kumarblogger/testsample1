@@ -1,86 +1,73 @@
-{
-  "fullsetgk": [
+{"fullsetgk": [
     {
   "uniqueKey": "development",
   "duration": 30,
   "questions": [
-    {
-      "qn": 1,
-      "level": 2,
-      "question": "<p>scsfsfsfsffsf</p>",
+     {	
+      "id": 1,
+	"level": 2,
+      "question": "<p><strong>கூற்று (A) : </strong>மேம்பாடு வாழ்க்கைத் தரத்தை உயர்த்துகிறது.</p><p><strong>காரணம்(R) : </strong>மக்கள் அதிக வருவாய், சிறந்த கல்வி, உடல்நலம் மற்றும் ஊட்டச்சத்து, குறைந்த வறுமை பெறுவார்கள்.</p>",
       "options": [
-        "sffssf",
-        "sfsf",
-        "sfsf",
-        "sffsfsfs"
-      ],
-      "correctAnswer": 1,
-      "explanation": "<p>sffffffffff</p>"
-    },
-    {
-      "qn": 2,
-      "level": 3,
-      "question": "<p>sfsfsfsf</p>",
-      "options": [
-        "sdsdsds",
-        "fsf",
-        "sfsf",
-        "sdaad"
-      ],
-      "correctAnswer": 1,
-      "explanation": "<p><br></p>"
-    }
-  ]
-},
-    {
-  "uniqueKey": "r9ihfj",
-  "duration": 1,
-  "questions": [
-    {
-      "qn": 1,
-      "level": 3,
-      "question": "<p>4222222222222222222</p>",
-      "options": [
-        "244444444444444",
-        "244444444444",
-        "24242",
-        "425252525"
+        "(A) மற்றும் (R) இரண்டும் சரியானது மற்றும் (R), (A) வை விளக்குகிறது",
+        "(A) மற்றும் (R) இரண்டும் சரியானது (R), (A) வை விளக்கவில்லை",
+        "(A) சரியானது மற்றும் (R) தவறானது",
+        "(A) தவறானது மற்றும் (R) சரியானது"
       ],
       "correctAnswer": 0,
-      "explanation": "<p>2525252424</p>"
-    }
-  ]
-},
-{
-  "uniqueKey": "c13ao3",
-  "duration": 1,
-  "questions": [
-    {
-      "qn": 1,
-      "level": 5,
-      "question": "<p>gdgggdgdgg</p>",
-      "options": [
-        "dgdgdg",
-        "dgdg",
-        "dgdg",
-        "dgdgdgdgdgg"
-      ],
-      "correctAnswer": 1,
-      "explanation": "<p>gdgdgdffdfdfdggdgdgd</p>"
+      "explanation": ""
     },
     {
-      "qn": 2,
-      "level": 1,
-      "question": "<p>dgdgdgdgdfdfdf</p>",
+      "id": 2,
+"level": 2,
+      "question": "<p>மனித வளம் எனும் சொல் குறிப்பிடுவது ?</p>",
       "options": [
-        "dgdgdgdg",
-        "dfsfsfsf",
-        "sfsfsf",
-        "sfsfsfsfsf"
+        "ஏழை மக்கள் மீதான முதலீடு",
+        "வேளாண்மை மீதான செலவு",
+        "சொத்துக்கள் மீதான முதலீடு",
+        "ஒட்டு மொத்த மக்களின் திறமை"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": 3,
+"level": 2,
+      "question": "<p>நாடுகளுக்கு இடையேயான மேம்பாட்டை ஒப்பிட அவர்களின் மிக முக்கிய பண்புகளில் ஒன்றாக கருதப்படுவது.</p>",
+      "options": [
+        "வளர்ச்சி",
+        "வருமானம்",
+        "செலவீனம்",
+        "சேமிப்புகள்"
       ],
       "correctAnswer": 1,
-      "explanation": "<p><br></p>"
+      "explanation": ""
+    },
+    {
+      "id": 4,
+"level": 2,
+      "question": "<p>மனிதவள மேம்பாட்டு குறியீடு (HDI) கணக்கில் பின்வரும் எந்தப் பரிமாணத்தை எடுத்துக் கொள்ளவில்லை ?</p>",
+      "options": [
+        "பாலினம்",
+        "உடல்நலம்",
+        "கல்வி",
+        "வருமானம்"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": 5,
+"level": 2,
+      "question": "<p>பரம்பரை ரீதியான சமத்துவம் எந்த நடைமுறையில் உறுதி செய்யப்படுகிறது ?</p>",
+      "options": [
+        "தொழிற்சாலை",
+        "பொருளாதார மேம்பாடு",
+        "நிலையான மேம்பாடு",
+        "பொருளாதார வளர்ச்சி"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
     }
   ]
-}
+    }
 ]}
