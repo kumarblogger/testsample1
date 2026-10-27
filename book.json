@@ -1,167 +1,36 @@
-[
-  {
-    "uniqueid": "1HX76l",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_Dx9IHWKqTIpB1_efaZXNxhHDxz9LBBr4NQmoY3Oma1Aw2KWEc1RRutI9XMdrbg8eG037O_cofv68TUjJplWBzPnp1Q7V49K-AK4rCMU66Glld9HrF13eECb1IUM4qoybA_e19_B7fE9OBL36iFRGLrNmSqIdx2nFnQqMZivPeyZUAYcyS27IrZgJpDx/s320-rw/81ASZ-B-IvL._SY466_.jpg",
-    "bookname": "The Secret- இரகசியம்",
-    "author": "by Rhonda Byrne",
-    "genre": [
-      "Motivational",
-      "Popular",
-      "Philosophy"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1pCqbPZlhg9tku4aDKiK0xrlv4lzl8arM"
-  },
-  {
-    "uniqueid": "zsmi6p",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDsdurnjX8GBDk3TYVf4IOKPf6xEsLBjFzLevN703Gh5RFj8Tlg3km98A3LyKe8SOIIMVQwRrY6mZHIPHnkwmk6CE6aps3GGHa5auo1wAQVPgH7nrxcPLl5oa5Vb4V4nizrEGXRDm_oYXT1gA_k4b7iAJxNG5DT5nVxnuC8CPgazUHxc32PUsifki_ThsB/s320-rw/images-money-1.jpeg",
-    "bookname": "The psychology of money - பணம் சார் உளவியல்",
-    "author": "Morgan Housel",
-    "genre": [
-      "Business",
-      "education"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1AMgPJpB5QAgxLc9lRhNJps-cJ5GMUNts"
-  },
-  {
-    "uniqueid": "PmfIls",
-    "imgcover": "https://m.media-amazon.com/images/I/71zzEw7GA9L._SL1360_.jpg",
-    "bookname": "Rich Dad Poor Dad- பணக்கார தந்தை ஏழை தந்தை",
-    "author": "Robert T. Kiyosaki",
-    "genre": [
-      "Education",
-      "Business"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1PYVtCsqQrpLhy1CM9dLSQdlkHBIvEAZn"
-  },
-  {
-    "uniqueid": "qfIoJ4",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio9wBz6Q2KE68n13j7RswBgKv6zuytzOGwoMTD4BEBIzuwlCcTJLm-6ur4u1iLA5-xSiUjwt7LjluV1QIgb2W2W8KQ5V2tVRMhwcIgCT9d9acA63eMhMfGvTlGVPL7RIBbdik0QMXHtwV8gzaVRi-2WdmNRsukY3yvKwmgcU1VdIbXBx92Mv80UUre8tGH/s320-rw/100-sirandha-sirukathaikal-1-front-cover-image.jpg",
-    "bookname": "தமிழின் 100 சிறந்த சிறுகதைகள் (பாகம் 2 )",
-    "author": "S. Ramakrishnan",
-    "genre": [
-      "சிறுகதைகள்"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1SnWEmIP39xUijKKCYWVZLPs5WG9dTxZH"
-  },
-  {
-    "uniqueid": "dGyr4z",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfTMmyoIXkfT0-qdiIzKcPHC3RegU4QQ2p_YsXYoGooqgdohvUkOMQ2gMssyms4Y3aYdTmY-OdVIEPNu8vkAtJ9QFvHS11urGdo92KGUkkeSYHvUSJlQG2uZ7qp5F0vFmB9FMrtJocNADu8CTzCJMWmKvWMPlMRqzPEA3ps92epF3mTVtnl52Q9sQTjO0U/s320-rw/Tamilnattu-Ellai-Poraattam-Periyaarum-MaPoSi-Yum%20%281%29.jpg",
-    "bookname": "தமிழ்நாட்டு எல்லைப் போராட்டம்: பெரியாரும் ம.பொ.சி.யும்",
-    "author": "by தந்தை பெரியார்",
-    "genre": [
-      "தந்தை பெரியார்",
-      "Politics"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1ZyR_KweJyjP3jLLnlscznx_x4toWarjn"
-  },
-  {
-    "uniqueid": "GBsD4Z",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHvEeCrN0Y1o7nwHa_Wn6sgkgTkU3HMbwngojeKwOyT-VPYqP8Czcwf-DH9lhAAIDdvSsorORtLt7XWcBB8UhoGGNo26aZPAFDc-6cWst7h7gJhzXmz37D8itITztE13WY1GiDCw6bhIxDsAyPxFNnxXf_vTdFDn_kcauNlQde8iOVs0L_ICnz4QSqnnYq/s320-rw/Kathalil-Irunthu-Thirumanam-Varai%20%281%29.jpg",
-    "bookname": "காதலில் இருந்து திருமணம் வரை- Kathalil Irunthu Thirumanam Varai",
-    "author": "by சோம.வள்ளியப்பன்",
-    "genre": [
-      "Family",
-      "Personal Development"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1xER-24L0qb0p4j3cJKusRcsHaYMlZhq9"
-  },
-  {
-    "uniqueid": "E1HPng",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYtkEkOhHU-GBF4Vq87NEHnekq50OBl-P0kS0FsFyTkhbvFJIw9zaPeQbCL076n-Bdd2C-qx-8ruZ1CNXstC5FlDSgH0crrnLzSJm35aRXHcy0XgpwSl08gNlIPwCGjvvasEY2NhXKl4S-aacwvsRf0b4qdibSySzegqg7qFNsMal0EpZnHRKVTKlLs_Sr/s320-rw/Rumi%E2%80%99s-Maznavi%20%281%29.jpg",
-    "bookname": "ரூமி மஸ்னவி துளிகள்- Rumi’s Maznavi",
-    "author": "by இசாக் ISHAQ , டாக்டர் முகமது சலீம் Dr Saleem",
-    "genre": [],
-    "download_link": "https://drive.google.com/uc?export=download&id=1QSdI-GydUakCIG2VC5GZCvZF4zE4fXfb"
-  },
-  {
-    "uniqueid": "tbxxH8",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0FJxCos2HPGqJDoec6qYVAHKcUro84mvzNo0jiWsdN9dnaBHKsoLNwa5o8ABCCzAk_Et-3MEKQGYrhIw01EMjsK0bUlChKh2YXhlF8krLeyugrJg4wbK6Cj07TmaQ1zwABCcDYje0fLgd5m-lobiHGrfxVunrBLF4r5AUpMO-wmhC_bL4ObiG65eamRn/s320-rw/vaazkkai_vazvatharke_cover.jpg",
-    "bookname": "வாழ்க்கை வாழ்வதற்கே- Vazhkai Vazhvatharke",
-    "author": "by என். ஸ்ரீதரன்",
-    "genre": [
-      "Story"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1omqGb6BpQqhnK-bpg4UIeaHrHVtYvklm"
-  },
-  {
-    "uniqueid": "k2OmpO",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikUuk7Aifm9L87CkIu38kpjmR66aM4xjIUoedNYiHqLzkPDO5y4JKFtba0rUQVB0YK3_5y7VMjP3sWweBDlcoHfyT_CujkonMHeEZOuRAC3P9hNHFvBqSRdLYmGy5y00U00OOpr0RhIxN-9HcqKR_zBISpsSFpMspETzVaaeOJIL86JdHgo8opFdcU1DVI/s320-rw/sinthanaiyum_paguththarivum.jpg",
-    "bookname": "சிந்தனையும் பகுத்தறிவும்- Sinthanaiyum pagutharivum",
-    "author": "by Priyar",
-    "genre": [
-      "Politics"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1_C50SDtAT-UK0ZmqEHZ7NimUxHrPfU12"
-  },
-  {
-    "uniqueid": "LzzBeE",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7_Bv21aoWjK_2wrm54T3-zYS6nzFYdrOl4jjl_t_ohIYOwL8pHGlpwzD8_Re8HSVIZllBdi_Z-x15TrkO9lIN6mot5jRxiYR0QtXx8MUInKyF5Xl3h6U3WUlpDHq6uAd2Fn3MJRaVw7-_sh5p7_bXzE7aoO4bX0isbmSyXvRNl11D1BxLaMJCRGhPdkl0/s320-rw/kelvikkuri_FrontImage.jpg",
-    "bookname": "கேள்விக்குறி- Kelvikkuri",
-    "author": "by S.Ramakrishnan",
-    "genre": [
-      "Story"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1k7qMo4cwPJwMinq1lEmOvslgYIgZyCvu"
-  },
-  {
-    "uniqueid": "3TJjuT",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiNBUFv5MobQWdmj_IJS2sdzladVwj9CDU45UkbzO6rmxcXBeGnjYBlASqfAQpyzHv7XOialpiM7VCMhc_BUm3QG0mwaOBCNOG8p8lhTGh66_g6Som0uYmSwTQBFocy2j5ptjVul5BnYAoe0AaL6KBlJmnG7isGrRMyaE5zkrBHSbgku-3JDFjtuDKD2eS/s320-rw/Upa-Pandavam.jpg",
-    "bookname": "உப பாண்டவம்- Upa Pandavam",
-    "author": "by S.Ramakrishnan",
-    "genre": [
-      "Story"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1DfgcdNkZCbGx6yoznhylaD-zSgajoy5O"
-  },
-  {
-    "uniqueid": "ZmfQ7U",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN05R4ZKSITXlQNCjGI8iR1BD_gal703T1myx61S9dVBbFkGJ9H_fikJKAnVshtIPRf7j_zJRF-9Edy-5FtoG05myUIQmMH8QSy-2wR8sHajQYk5dlVvXWvSaMKj8H6BjFHF_pTKyiIN_RmBPc4YbJ7ZErwMDh1jS4UT9qL1MYx3qejLuEp9Ut3z2zOXlU/s320-rw/Vaasaka-Parvam.jpg",
-    "bookname": "வாசகர் பர்வம்- Vaasaka Parvam",
-    "author": "by S.Ramakrishnan",
-    "genre": [
-      "Story"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1uPkc6ILZSZ8eR7MQefBeEh385wxzdqxa"
-  },
-  {
-    "uniqueid": "f4MMwG",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8kXIaodA3f_qSkrYnukGYY2uvJPvCzOU_gIgWf-pWJwxDiGVWhz0JCZy1k-RyJ5LEVnw5dfOiqIM4p5_tIyk_BakKzKIF2phZgOAsglDN8wisfghy6FXkztB-h56HZXxTwCcUfNx3zaO5Epnf0e2h7muaVl7Sk_qZtMaTAL1aji3y-A7xzDbUmRGBBwvI/s320-rw/%E0%AE%B5%E0%AE%BE%E0%AE%B4%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AF%8A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B3%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%88_%E0%AE%95%E0%AE%9F%E0%AE%A8%E0%AF%8D%E0%AE%A4_%E0%AE%89%E0%AE%AF%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D.png",
-    "bookname": "வாழ்வின் கொந்தளிப்புகளை கடந்த உயர்நிலைகள்",
-    "author": "by ஜேம்ஸ் ஆலன்",
-    "genre": [
-      "Story"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=12jvwYLlFSIvEV6Uxvj5FkvvP0h-pynXU"
-  },
-  {
-    "uniqueid": "kBMLd7",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBwHb8PWsrx6FsKiMDp_KEZVFBqOtFTyjSdxxYQ_KgPIeYRnzJaFYDZhwjvw5D2Ko9Fur1cFfU3TRqvTNt0dKbSKsgwHPKDwZQULv2r37zfZAL4yRfqHsKCUj1Xy4N8NQddTwFD_MZ7u8tbMuJTGIk2HKNmFMzx8ZxPEFJVhNSt36vO_cgmz8JAqTF8_Zq/s500/Kadavulin-Naaku.jpg",
-    "bookname": "கடவுளின் நாக்கு-Kadavulin Naaku",
-    "author": "by S.Ramakrishnan",
-    "genre": [
-      "Story"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1Q97CSnFrkUYcLZyg_XrAdATxEZ-uTHko"
-  },
-  {
-    "uniqueid": "nXQzjO",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvMp-EoW6AxfQenjGX8KSSSONyQGze_G9fS3Ai9sAxZtxIcWkyZIANybIuHb2uPAIqFcy0wNahUWeTG7bQggv_Bfna4Svqym7QI_n1eBXduTn64q5XBxPJkEqSG04zmF82TLsP3Ju9asI0WbAlTcoYryAmTC1cOzYEUDn0Lq-bljCLeMgqNv9yxcqu_hn4/s320-rw/Tavarankalin-Uraiyatal-book-by-S.Ramakrishnan.jpg",
-    "bookname": "தாவரங்களின் உரையாடல்-Tavarankalin Uraiyatal-by S.Ramakrishnan",
-    "author": "by S.Ramakrishnan",
-    "genre": [
-      "Story"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1bdTQHjQA1HV5G6dLvtSbFuSDbdbqSFY2"
-  },
-  {
-    "uniqueid": "2RbZDN",
-    "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQmsbJfnOJf9tv_EnZxEJUr21ye3yMAvcS2-fea4FuwCV5a7fWZUPieEU4K9IJ-T-NgBTPCU5VKzwXdgGC-I_HO_Lgr1YzLQUMmfsOyTM1JdhxLMG-h80rPbEi3nSwShqEdEWOUsy2yCNiSFNW_YLv_t_7YubacFSujWD5fQR-38qo0vVYIYU39agYh5ML/s320-rw/%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%AF%E0%AE%BE-%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AE%BF-Nithya-Duraisamy.jpg",
-    "bookname": "எளிய தமிழில் Machine Learning",
-    "author": "நித்யா துரைசாமி",
-    "genre": [
-      "Politics",
-      "Religious"
-    ],
-    "download_link": "https://drive.google.com/uc?export=download&id=1LRV63sHkc2xrZWVeylcFBUOo-R9RtTCx"
+{
+  "polity": {
+    "preamble": {
+      "g2,2a": {
+        "questions": [
+          {
+            "question": "How many times was the Preamble amended?",
+            "options": {
+              "1": "1",
+              "2": "4",
+              "3": "3",
+              "4": "2"
+            },
+            "ans": "1",
+            "explanation": "The Preamble to the Indian Constitution was amended only once by the 42nd Constitutional Amendment Act of 1976."
+          }
+        ]
+      },
+      "g1": {
+        "questions": [
+          {
+            "question": "1+2",
+            "options": {
+              "1": "3",
+              "2": "2",
+              "3": "1",
+              "4": "4"
+            },
+            "ans": "1",
+            "explanation": "3"
+          }
+        ]
+      }
+    }
   }
-]
+}
