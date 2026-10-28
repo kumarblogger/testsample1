@@ -5,118 +5,10 @@
     "topics": {
       "preamble": {
         "id": "0l9ikbfo",
-        "g2,2a": {
+        "moderate": {
           "questions": [
             {
-              "id": "l2sye8se",
-              "question": "How many times was the Preamble amended?",
-              "options": {
-                "1": "1",
-                "2": "4",
-                "3": "3",
-                "4": "2"
-              },
-              "ans": "1",
-              "explanation": "The Preamble to the Indian Constitution was amended only once by the 42nd Constitutional Amendment Act of 1976."
-            },
-            {
-              "id": "p7k3m9xa",
-              "question": "Which Constitutional Amendment Act amended the Preamble?",
-              "options": {
-                "1": "44th Amendment Act",
-                "2": "42nd Amendment Act",
-                "3": "24th Amendment Act",
-                "4": "73rd Amendment Act"
-              },
-              "ans": "2",
-              "explanation": "The 42nd Constitutional Amendment Act of 1976 amended the Preamble to the Indian Constitution."
-            },
-            {
-              "id": "q4n8v2bc",
-              "question": "Which three words were added to the Preamble by the 42nd Amendment?",
-              "options": {
-                "1": "Justice, Liberty, Equality",
-                "2": "Democratic, Republic, Justice",
-                "3": "Socialist, Secular, Integrity",
-                "4": "Sovereign, Socialist, Republic"
-              },
-              "ans": "3",
-              "explanation": "The 42nd Amendment added the words Socialist, Secular, and Integrity to the Preamble."
-            },
-            {
-              "id": "w6e1r5ty",
-              "question": "Who described the Preamble as the identity card of the Constitution?",
-              "options": {
-                "1": "Dr. B. R. Ambedkar",
-                "2": "N. A. Palkhivala",
-                "3": "Jawaharlal Nehru",
-                "4": "K. M. Munshi"
-              },
-              "ans": "2",
-              "explanation": "N. A. Palkhivala famously described the Preamble as the identity card of the Constitution."
-            },
-            {
-              "id": "a3d7f9hk",
-              "question": "The Preamble to the Indian Constitution is based on which resolution?",
-              "options": {
-                "1": "Cabinet Mission Resolution",
-                "2": "Mountbatten Plan",
-                "3": "Objectives Resolution",
-                "4": "Government of India Resolution"
-              },
-              "ans": "3",
-              "explanation": "The Preamble is based on the Objectives Resolution moved by Jawaharlal Nehru in the Constituent Assembly on 13 December 1946 and adopted on 22 January 1947."
-            },
-            {
-              "id": "b8c2j4lm",
-              "question": "Who moved the Objectives Resolution in the Constituent Assembly?",
-              "options": {
-                "1": "Dr. Rajendra Prasad",
-                "2": "Sardar Vallabhbhai Patel",
-                "3": "Dr. B. R. Ambedkar",
-                "4": "Jawaharlal Nehru"
-              },
-              "ans": "4",
-              "explanation": "Jawaharlal Nehru moved the Objectives Resolution on 13 December 1946."
-            },
-            {
-              "id": "c5v9x1zn",
-              "question": "On which date was the Constitution of India adopted?",
-              "options": {
-                "1": "15 August 1947",
-                "2": "26 November 1949",
-                "3": "26 January 1950",
-                "4": "2 October 1949"
-              },
-              "ans": "2",
-              "explanation": "The Constituent Assembly adopted the Constitution of India on 26 November 1949."
-            },
-            {
-              "id": "d2f6g8hj",
-              "question": "On which date did the Constitution of India come into force?",
-              "options": {
-                "1": "26 November 1949",
-                "2": "15 August 1947",
-                "3": "26 January 1950",
-                "4": "30 January 1950"
-              },
-              "ans": "3",
-              "explanation": "The Constitution of India came into force on 26 January 1950, celebrated annually as Republic Day."
-            },
-            {
-              "id": "e4k7m2np",
-              "question": "Which of the following words was present in the original Preamble?",
-              "options": {
-                "1": "Socialist",
-                "2": "Secular",
-                "3": "Integrity",
-                "4": "Democratic"
-              },
-              "ans": "4",
-              "explanation": "The word Democratic was part of the original Preamble. Socialist, Secular, and Integrity were added by the 42nd Amendment in 1976."
-            },
-            {
-              "id": "f9h3j6qs",
+              "id": "10",
               "question": "Which case established that the Preamble is part of the Constitution?",
               "options": {
                 "1": "Golaknath v. State of Punjab",
@@ -128,7 +20,7 @@
               "explanation": "In Kesavananda Bharati v. State of Kerala (1973), the Supreme Court held that the Preamble is part of the Constitution and that Parliament cannot alter its basic structure."
             },
             {
-              "id": "g1l5r8tw",
+              "id": "11",
               "question": "Can the Preamble be amended under Article 368?",
               "options": {
                 "1": "No, under any circumstances",
@@ -140,7 +32,7 @@
               "explanation": "The Preamble can be amended under Article 368, but an amendment cannot damage or destroy the basic structure of the Constitution."
             },
             {
-              "id": "h7m2p4vx",
+              "id": "12",
               "question": "Which term in the Preamble indicates that India has no official state religion?",
               "options": {
                 "1": "Sovereign",
@@ -152,7 +44,7 @@
               "explanation": "Secular means that the state does not have an official religion and must treat religions in accordance with constitutional principles."
             },
             {
-              "id": "j3n6q9za",
+              "id": "13",
               "question": "What does the term Republic mean in the Preamble?",
               "options": {
                 "1": "The head of state is hereditary",
@@ -164,7 +56,7 @@
               "explanation": "A republic has a non-hereditary head of state who holds office according to constitutional provisions."
             },
             {
-              "id": "k8p1s5db",
+              "id": "14",
               "question": "Which ideal in the Preamble promotes fraternity?",
               "options": {
                 "1": "A sense of brotherhood and common unity",
@@ -176,7 +68,7 @@
               "explanation": "Fraternity promotes brotherhood and assures the dignity of the individual and the unity and integrity of the nation."
             },
             {
-              "id": "m4t7w2ec",
+              "id": "15",
               "question": "The Preamble promises justice in which three forms?",
               "options": {
                 "1": "Civil, criminal, and administrative",
@@ -188,7 +80,7 @@
               "explanation": "The Preamble promises social, economic, and political justice to all citizens."
             },
             {
-              "id": "n6x9b3fk",
+              "id": "16",
               "question": "Which forms of liberty are expressly mentioned in the Preamble?",
               "options": {
                 "1": "Trade, property, and employment",
@@ -200,7 +92,7 @@
               "explanation": "The Preamble secures liberty of thought, expression, belief, faith, and worship."
             },
             {
-              "id": "p2z5c8gm",
+              "id": "17",
               "question": "Which forms of equality are mentioned in the Preamble?",
               "options": {
                 "1": "Equality of income and property",
@@ -210,9 +102,13 @@
               },
               "ans": "4",
               "explanation": "The Preamble promises equality of status and of opportunity to all citizens."
-            },
+            }
+          ]
+        },
+        "hard": {
+          "questions": [
             {
-              "id": "q7a4d1hn",
+              "id": "18",
               "question": "The opening words of the Preamble are:",
               "options": {
                 "1": "We, the citizens of India",
@@ -224,7 +120,7 @@
               "explanation": "The Preamble begins with We, the People of India, expressing popular sovereignty and the source of constitutional authority."
             },
             {
-              "id": "r5b8e2jk",
+              "id": "19",
               "question": "Which of the following is NOT a word used to describe India in the Preamble?",
               "options": {
                 "1": "Sovereign",
@@ -236,7 +132,7 @@
               "explanation": "Federal is not explicitly used in the Preamble, although the Constitution establishes a federal system with a strong Centre."
             },
             {
-              "id": "s9c3f6lm",
+              "id": "20",
               "question": "Which part of the Constitution contains the Preamble?",
               "options": {
                 "1": "Part I",
@@ -248,7 +144,7 @@
               "explanation": "The Preamble appears at the beginning of the Constitution and is not assigned a Part number."
             },
             {
-              "id": "t1d4g7np",
+              "id": "21",
               "question": "Which constitutional principle means that India is independent in its internal and external affairs?",
               "options": {
                 "1": "Sovereign",
@@ -260,7 +156,7 @@
               "explanation": "Sovereignty means that India is independent and possesses supreme authority in its internal affairs and independence in its external relations."
             },
             {
-              "id": "v6h2j9qr",
+              "id": "22",
               "question": "What is the significance of the Preamble in constitutional interpretation?",
               "options": {
                 "1": "It overrides every Article of the Constitution",
@@ -270,6 +166,118 @@
               },
               "ans": "2",
               "explanation": "The Preamble expresses the Constitution's objectives and ideals and can assist courts in interpreting constitutional provisions. It does not override the operative provisions of the Constitution."
+            }
+          ]
+        },
+        "easy": {
+          "questions": [
+            {
+              "id": "1",
+              "question": "How many times was the Preamble amended?",
+              "options": {
+                "1": "1",
+                "2": "4",
+                "3": "3",
+                "4": "2"
+              },
+              "ans": "1",
+              "explanation": "The Preamble to the Indian Constitution was amended only once by the 42nd Constitutional Amendment Act of 1976."
+            },
+            {
+              "id": "2",
+              "question": "Which Constitutional Amendment Act amended the Preamble?",
+              "options": {
+                "1": "44th Amendment Act",
+                "2": "42nd Amendment Act",
+                "3": "24th Amendment Act",
+                "4": "73rd Amendment Act"
+              },
+              "ans": "2",
+              "explanation": "The 42nd Constitutional Amendment Act of 1976 amended the Preamble to the Indian Constitution."
+            },
+            {
+              "id": "3",
+              "question": "Which three words were added to the Preamble by the 42nd Amendment?",
+              "options": {
+                "1": "Justice, Liberty, Equality",
+                "2": "Democratic, Republic, Justice",
+                "3": "Socialist, Secular, Integrity",
+                "4": "Sovereign, Socialist, Republic"
+              },
+              "ans": "3",
+              "explanation": "The 42nd Amendment added the words Socialist, Secular, and Integrity to the Preamble."
+            },
+            {
+              "id": "4",
+              "question": "Who described the Preamble as the identity card of the Constitution?",
+              "options": {
+                "1": "Dr. B. R. Ambedkar",
+                "2": "N. A. Palkhivala",
+                "3": "Jawaharlal Nehru",
+                "4": "K. M. Munshi"
+              },
+              "ans": "2",
+              "explanation": "N. A. Palkhivala famously described the Preamble as the identity card of the Constitution."
+            },
+            {
+              "id": "5",
+              "question": "The Preamble to the Indian Constitution is based on which resolution?",
+              "options": {
+                "1": "Cabinet Mission Resolution",
+                "2": "Mountbatten Plan",
+                "3": "Objectives Resolution",
+                "4": "Government of India Resolution"
+              },
+              "ans": "3",
+              "explanation": "The Preamble is based on the Objectives Resolution moved by Jawaharlal Nehru in the Constituent Assembly on 13 December 1946 and adopted on 22 January 1947."
+            },
+            {
+              "id": "6",
+              "question": "Who moved the Objectives Resolution in the Constituent Assembly?",
+              "options": {
+                "1": "Dr. Rajendra Prasad",
+                "2": "Sardar Vallabhbhai Patel",
+                "3": "Dr. B. R. Ambedkar",
+                "4": "Jawaharlal Nehru"
+              },
+              "ans": "4",
+              "explanation": "Jawaharlal Nehru moved the Objectives Resolution on 13 December 1946."
+            },
+            {
+              "id": "7",
+              "question": "On which date was the Constitution of India adopted?",
+              "options": {
+                "1": "15 August 1947",
+                "2": "26 November 1949",
+                "3": "26 January 1950",
+                "4": "2 October 1949"
+              },
+              "ans": "2",
+              "explanation": "The Constituent Assembly adopted the Constitution of India on 26 November 1949."
+            },
+            {
+              "id": "8",
+              "question": "On which date did the Constitution of India come into force?",
+              "options": {
+                "1": "26 November 1949",
+                "2": "15 August 1947",
+                "3": "26 January 1950",
+                "4": "30 January 1950"
+              },
+              "ans": "3",
+              "explanation": "The Constitution of India came into force on 26 January 1950, celebrated annually as Republic Day."
+            },
+            {
+              "id": "9",
+              "question": "Which of the following words was present in the original Preamble?",
+              "options": {
+                "1": "Socialist",
+                "2": "Secular",
+                "3": "Integrity",
+                "4": "Democratic"
+              },
+              "ans": "4",
+              "explanation": "The word Democratic was part of the original Preamble. Socialist, Secular, and Integrity were added by the 42nd Amendment in 1976."
             }
           ]
         }
@@ -282,134 +290,10 @@
     "topics": {
       "indian_economy": {
         "id": "e4c8n2vx",
-        "g2,2a": {
+        "moderate": {
           "questions": [
             {
-              "id": "eco001",
-              "question": "Which institution is responsible for issuing most currency notes in India?",
-              "options": {
-                "1": "State Bank of India",
-                "2": "Reserve Bank of India",
-                "3": "Ministry of Finance",
-                "4": "NITI Aayog"
-              },
-              "ans": "2",
-              "explanation": "The Reserve Bank of India (RBI) issues banknotes in India, except the one-rupee note, which is issued by the Government of India."
-            },
-            {
-              "id": "eco002",
-              "question": "What does GDP stand for?",
-              "options": {
-                "1": "Gross Domestic Product",
-                "2": "General Domestic Production",
-                "3": "Gross Development Plan",
-                "4": "General Development Product"
-              },
-              "ans": "1",
-              "explanation": "GDP stands for Gross Domestic Product. It measures the value of final goods and services produced within a country's domestic territory during a specified period."
-            },
-            {
-              "id": "eco003",
-              "question": "Which institution is known as the central bank of India?",
-              "options": {
-                "1": "State Bank of India",
-                "2": "Punjab National Bank",
-                "3": "Reserve Bank of India",
-                "4": "NABARD"
-              },
-              "ans": "3",
-              "explanation": "The Reserve Bank of India is India's central bank and is responsible for monetary policy and key banking functions."
-            },
-            {
-              "id": "eco004",
-              "question": "What is inflation?",
-              "options": {
-                "1": "A continuous fall in the general price level",
-                "2": "A sustained increase in the general price level",
-                "3": "An increase in the value of money",
-                "4": "A decrease in the money supply in every situation"
-              },
-              "ans": "2",
-              "explanation": "Inflation is a sustained increase in the general price level of goods and services, which reduces the purchasing power of money."
-            },
-            {
-              "id": "eco005",
-              "question": "Which tax is an example of an indirect tax in India?",
-              "options": {
-                "1": "Income tax",
-                "2": "Corporation tax",
-                "3": "Goods and Services Tax",
-                "4": "Wealth tax"
-              },
-              "ans": "3",
-              "explanation": "Goods and Services Tax (GST) is an indirect tax imposed on the supply of goods and services."
-            },
-            {
-              "id": "eco006",
-              "question": "Which organisation replaced the Planning Commission of India?",
-              "options": {
-                "1": "Finance Commission",
-                "2": "NITI Aayog",
-                "3": "National Development Council",
-                "4": "Reserve Bank of India"
-              },
-              "ans": "2",
-              "explanation": "NITI Aayog was established on 1 January 2015, replacing the Planning Commission."
-            },
-            {
-              "id": "eco007",
-              "question": "What is the repo rate?",
-              "options": {
-                "1": "The rate at which commercial banks lend to customers",
-                "2": "The rate at which the RBI lends short-term funds to banks against eligible securities",
-                "3": "The interest rate paid on all savings accounts",
-                "4": "The rate at which the government collects income tax"
-              },
-              "ans": "2",
-              "explanation": "The repo rate is the rate at which the RBI provides short-term funds to eligible banks against eligible securities under repo transactions."
-            },
-            {
-              "id": "eco008",
-              "question": "Which sector includes agriculture, forestry, and fishing?",
-              "options": {
-                "1": "Primary sector",
-                "2": "Secondary sector",
-                "3": "Tertiary sector",
-                "4": "Quaternary sector"
-              },
-              "ans": "1",
-              "explanation": "The primary sector involves activities that obtain or produce resources directly from nature, including agriculture, forestry, and fishing."
-            },
-            {
-              "id": "eco009",
-              "question": "What is the main purpose of monetary policy in India?",
-              "options": {
-                "1": "To decide the country's foreign policy",
-                "2": "To regulate elections",
-                "3": "To maintain price stability while keeping growth in mind",
-                "4": "To prepare state government budgets"
-              },
-              "ans": "3",
-              "explanation": "The RBI conducts monetary policy with the primary objective of maintaining price stability while keeping the objective of growth in mind."
-            },
-            {
-              "id": "eco010",
-              "question": "Which organisation primarily provides refinancing and development support for agriculture and rural development in India?",
-              "options": {
-                "1": "SEBI",
-                "2": "NABARD",
-                "3": "IRDAI",
-                "4": "EXIM Bank"
-              },
-              "ans": "2",
-              "explanation": "The National Bank for Agriculture and Rural Development (NABARD) supports agriculture and rural development through refinancing, development initiatives, and related functions."
-            }
-          ]
-        },
-        "g1": {
-          "questions": [
-            {
-              "id": "eco001",
+              "id": "33",
               "question": "Consider the following statements about GDP:\n1. GDP measures the value of final goods and services produced within a country's domestic territory.\n2. GDP includes the value of all intermediate goods separately to avoid double counting.\n3. GDP can be measured at current prices and constant prices.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -421,7 +305,7 @@
               "explanation": "Statements 1 and 3 are correct. GDP measures final output within domestic territory and can be measured at current or constant prices. Counting intermediate goods separately would cause double counting."
             },
             {
-              "id": "eco002",
+              "id": "34",
               "question": "Consider the following statements about inflation:\n1. Inflation refers to a sustained increase in the general price level.\n2. Inflation always increases the purchasing power of money.\n3. The Consumer Price Index is used to measure retail inflation in India.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 only",
@@ -433,7 +317,7 @@
               "explanation": "Statements 1 and 3 are correct. Inflation generally reduces the purchasing power of money. CPI is an important measure of retail inflation in India."
             },
             {
-              "id": "eco003",
+              "id": "35",
               "question": "Consider the following statements about the Reserve Bank of India:\n1. RBI commenced operations on 1 April 1935.\n2. RBI was nationalised in 1949.\n3. RBI directly prepares the Union Budget of India.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -445,7 +329,7 @@
               "explanation": "Statements 1 and 2 are correct. RBI began operations in 1935 and was nationalised in 1949. The Union Budget is prepared by the Government of India, not the RBI."
             },
             {
-              "id": "eco004",
+              "id": "36",
               "question": "Consider the following statements about monetary policy:\n1. The repo rate is associated with RBI lending to banks against eligible securities under repo transactions.\n2. An increase in the repo rate can make borrowing more expensive.\n3. Monetary policy in India is conducted by the Election Commission of India.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 only",
@@ -457,7 +341,7 @@
               "explanation": "Statements 1 and 2 are correct. A higher repo rate can increase borrowing costs and help moderate inflationary pressures. The RBI conducts monetary policy."
             },
             {
-              "id": "eco005",
+              "id": "37",
               "question": "Consider the following statements about fiscal policy:\n1. Fiscal policy involves government taxation and expenditure.\n2. A fiscal deficit occurs when total government expenditure exceeds total receipts excluding borrowings.\n3. Fiscal policy is exclusively controlled by the RBI.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -469,7 +353,7 @@
               "explanation": "Statements 1 and 2 are correct. Fiscal policy concerns government revenue and expenditure. The RBI conducts monetary policy, while fiscal policy is formulated by the government."
             },
             {
-              "id": "eco006",
+              "id": "38",
               "question": "Consider the following statements about Goods and Services Tax (GST):\n1. GST is an indirect tax.\n2. GST was introduced in India on 1 July 2017.\n3. GST is a direct tax imposed only on personal income.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 only",
@@ -481,7 +365,7 @@
               "explanation": "Statements 1 and 2 are correct. GST is an indirect tax on the supply of goods and services and was introduced in India on 1 July 2017."
             },
             {
-              "id": "eco007",
+              "id": "39",
               "question": "Consider the following statements about the Planning Commission and NITI Aayog:\n1. The Planning Commission was established in 1950.\n2. NITI Aayog was established on 1 January 2015.\n3. NITI Aayog is a constitutional body established by the Constitution of India.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -493,7 +377,7 @@
               "explanation": "Statements 1 and 2 are correct. NITI Aayog replaced the Planning Commission in 2015 and is an executive body, not a constitutional body."
             },
             {
-              "id": "eco008",
+              "id": "40",
               "question": "Consider the following statements about national income:\n1. Gross National Income considers income earned by residents from abroad as well as income earned domestically by residents.\n2. Depreciation represents the consumption of fixed capital.\n3. Net Domestic Product is obtained by adding depreciation to GDP.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -505,7 +389,7 @@
               "explanation": "Statements 1 and 2 are correct. Net Domestic Product equals GDP minus depreciation, not GDP plus depreciation."
             },
             {
-              "id": "eco009",
+              "id": "41",
               "question": "Consider the following statements about poverty in India:\n1. Poverty can be measured using monetary and multidimensional indicators.\n2. Multidimensional poverty can include deprivation in health, education and living standards.\n3. Poverty is measured exclusively by the rate of inflation.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -517,7 +401,7 @@
               "explanation": "Statements 1 and 2 are correct. Multidimensional poverty considers overlapping deprivations such as health, education and living standards. Inflation alone does not measure poverty."
             },
             {
-              "id": "eco010",
+              "id": "42",
               "question": "Consider the following statements about unemployment:\n1. Disguised unemployment can occur when more workers are engaged in an activity than are actually needed.\n2. Seasonal unemployment may occur when work is available only during particular seasons.\n3. Open unemployment means that every person is employed but receives a low wage.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 only",
@@ -527,9 +411,13 @@
               },
               "ans": "2",
               "explanation": "Statements 1 and 2 are correct. Open unemployment refers to people willing and able to work who cannot find employment, rather than people who are employed at low wages."
-            },
+            }
+          ]
+        },
+        "hard": {
+          "questions": [
             {
-              "id": "eco011",
+              "id": "43",
               "question": "Consider the following statements about the banking system in India:\n1. Commercial banks accept deposits from the public.\n2. Commercial banks provide loans and advances.\n3. The RBI is the only institution legally permitted to accept deposits from the public in India.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -541,7 +429,7 @@
               "explanation": "Statements 1 and 2 are correct. Accepting deposits and providing credit are core functions of commercial banks. The RBI is not the only institution permitted to accept public deposits."
             },
             {
-              "id": "eco012",
+              "id": "44",
               "question": "Consider the following statements about the Cash Reserve Ratio (CRR):\n1. Banks must maintain a prescribed proportion of their net demand and time liabilities as cash balance with the RBI.\n2. The RBI can change the CRR as a monetary policy instrument.\n3. Banks can use the entire CRR balance freely for lending to customers.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -553,7 +441,7 @@
               "explanation": "Statements 1 and 2 are correct. CRR balances are maintained with the RBI and are not freely available to banks for lending."
             },
             {
-              "id": "eco013",
+              "id": "45",
               "question": "Consider the following statements about the agricultural sector in India:\n1. Agriculture belongs to the primary sector.\n2. Agricultural productivity can be influenced by irrigation, technology and access to credit.\n3. The Green Revolution initially focused significantly on increasing food-grain production through improved seeds and complementary inputs.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -565,7 +453,7 @@
               "explanation": "All three statements are correct. Agriculture is a primary-sector activity, productivity depends on multiple inputs, and the Green Revolution promoted improved crop varieties alongside irrigation, fertilisers and other inputs."
             },
             {
-              "id": "eco014",
+              "id": "46",
               "question": "Consider the following statements about the balance of payments:\n1. The current account records trade in goods and services, primary income and secondary income.\n2. Foreign direct investment is generally recorded in the financial account.\n3. A current account deficit necessarily means that a country has no foreign exchange reserves.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -577,7 +465,7 @@
               "explanation": "Statements 1 and 2 are correct. A current account deficit can be financed through financial flows or changes in reserves; it does not necessarily mean reserves are zero."
             },
             {
-              "id": "eco015",
+              "id": "47",
               "question": "Consider the following statements about foreign direct investment (FDI):\n1. FDI generally involves a lasting interest and significant influence in an enterprise in another economy.\n2. FDI can bring capital, technology and management expertise.\n3. FDI and foreign portfolio investment always involve identical levels of management control.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 only",
@@ -589,7 +477,7 @@
               "explanation": "Statements 1 and 2 are correct. FDI is associated with a lasting interest and influence, whereas portfolio investment generally does not provide the same degree of managerial influence."
             },
             {
-              "id": "eco016",
+              "id": "48",
               "question": "Consider the following statements about the Finance Commission of India:\n1. It is provided for under Article 280 of the Constitution.\n2. It recommends the distribution of certain tax revenues between the Union and the States.\n3. It is a permanent body with all members serving indefinitely.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -601,7 +489,7 @@
               "explanation": "Statements 1 and 2 are correct. The President constitutes a Finance Commission every five years or earlier when necessary; it is not a permanent body with indefinite membership."
             },
             {
-              "id": "eco017",
+              "id": "49",
               "question": "Consider the following statements about public goods:\n1. A pure public good is generally non-rival in consumption.\n2. A pure public good is generally non-excludable.\n3. National defence is a commonly cited example of a public good.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
@@ -613,8 +501,8 @@
               "explanation": "All three statements are correct. Pure public goods are non-rival and non-excludable, and national defence is a standard example."
             },
             {
-              "id": "eco018",
-              "question": "Consider the following statements about the Securities and Exchange Board of India (SEBI):\n1. SEBI regulates the securities market in India.\n2. SEBI aims to protect investors and promote the development of the securities market.\n3. SEBI is responsible for determining India's monetary policy repo rate.\nWhich of the statements given above are correct?",
+              "id": "50",
+              "question": "Consider the following statements about the Securities and Exchange Board of India (SEBI):\n1. SEBI regulates the securities market in India.\n2. SEBI is responsible for protecting investor interests and promoting market development.\n3. SEBI sets the monetary policy repo rate.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
                 "2": "1 and 3 only",
@@ -622,11 +510,11 @@
                 "4": "1, 2 and 3"
               },
               "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. SEBI regulates the securities market and protects investors. The RBI's Monetary Policy Committee determines the policy repo rate."
+              "explanation": "Statements 1 and 2 are correct. SEBI regulates the securities market and protects investors. The RBI sets the repo rate."
             },
             {
-              "id": "eco019",
-              "question": "Consider the following statements about economic growth and economic development:\n1. Economic growth generally refers to an increase in real output over time.\n2. Economic development includes broader improvements in well-being and living standards.\n3. Economic growth automatically guarantees the elimination of poverty and inequality.\nWhich of the statements given above are correct?",
+              "id": "51",
+              "question": "Consider the following statements about economic growth and economic development:\n1. Economic growth refers to an increase in real output over time.\n2. Economic development includes qualitative improvements in living standards.\n3. Economic growth always guarantees the removal of poverty.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
                 "2": "1 and 3 only",
@@ -634,11 +522,11 @@
                 "4": "1, 2 and 3"
               },
               "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. Growth refers to an increase in real output, while development includes broader social and economic improvements. Growth alone does not guarantee the elimination of poverty or inequality."
+              "explanation": "Statements 1 and 2 are correct. Growth is an increase in output, while development encompasses broader well-being. Growth does not automatically eliminate poverty."
             },
             {
-              "id": "eco020",
-              "question": "Consider the following statements about the Minimum Support Price (MSP):\n1. MSP is announced by the Government of India for specified agricultural commodities.\n2. The Commission for Agricultural Costs and Prices (CACP) recommends MSPs for major agricultural commodities.\n3. MSP guarantees that every farmer will sell every crop at that price in every market.\nWhich of the statements given above are correct?",
+              "id": "52",
+              "question": "Consider the following statements about the Minimum Support Price (MSP):\n1. MSP is announced by the government for certain agricultural crops.\n2. The CACP recommends MSPs.\n3. MSP is legally guaranteed for all crops in all markets.\nWhich of the statements given above are correct?",
               "options": {
                 "1": "1 and 2 only",
                 "2": "1 and 3 only",
@@ -646,7 +534,131 @@
                 "4": "1, 2 and 3"
               },
               "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. MSPs are announced by the government based on recommendations and other considerations. The announcement does not guarantee that every farmer can sell every crop at MSP in every market."
+              "explanation": "Statements 1 and 2 are correct. MSPs are announced based on CACP recommendations, but they are not universally backed by statutory legal guarantees across all crops and markets."
+            }
+          ]
+        },
+        "easy": {
+          "questions": [
+            {
+              "id": "23",
+              "question": "Which institution is responsible for issuing most currency notes in India?",
+              "options": {
+                "1": "State Bank of India",
+                "2": "Reserve Bank of India",
+                "3": "Ministry of Finance",
+                "4": "NITI Aayog"
+              },
+              "ans": "2",
+              "explanation": "The Reserve Bank of India (RBI) issues banknotes in India, except the one-rupee note, which is issued by the Government of India."
+            },
+            {
+              "id": "24",
+              "question": "What does GDP stand for?",
+              "options": {
+                "1": "Gross Domestic Product",
+                "2": "General Domestic Production",
+                "3": "Gross Development Plan",
+                "4": "General Development Product"
+              },
+              "ans": "1",
+              "explanation": "GDP stands for Gross Domestic Product. It measures the value of final goods and services produced within a country's domestic territory during a specified period."
+            },
+            {
+              "id": "25",
+              "question": "Which institution is known as the central bank of India?",
+              "options": {
+                "1": "State Bank of India",
+                "2": "Punjab National Bank",
+                "3": "Reserve Bank of India",
+                "4": "NABARD"
+              },
+              "ans": "3",
+              "explanation": "The Reserve Bank of India is India's central bank and is responsible for monetary policy and key banking functions."
+            },
+            {
+              "id": "26",
+              "question": "What is inflation?",
+              "options": {
+                "1": "A continuous fall in the general price level",
+                "2": "A sustained increase in the general price level",
+                "3": "An increase in the value of money",
+                "4": "A decrease in the money supply in every situation"
+              },
+              "ans": "2",
+              "explanation": "Inflation is a sustained increase in the general price level of goods and services, which reduces the purchasing power of money."
+            },
+            {
+              "id": "27",
+              "question": "Which tax is an example of an indirect tax in India?",
+              "options": {
+                "1": "Income tax",
+                "2": "Corporation tax",
+                "3": "Goods and Services Tax",
+                "4": "Wealth tax"
+              },
+              "ans": "3",
+              "explanation": "Goods and Services Tax (GST) is an indirect tax imposed on the supply of goods and services."
+            },
+            {
+              "id": "28",
+              "question": "Which organisation replaced the Planning Commission of India?",
+              "options": {
+                "1": "Finance Commission",
+                "2": "NITI Aayog",
+                "3": "National Development Council",
+                "4": "Reserve Bank of India"
+              },
+              "ans": "2",
+              "explanation": "NITI Aayog was established on 1 January 2015, replacing the Planning Commission."
+            },
+            {
+              "id": "29",
+              "question": "What is the repo rate?",
+              "options": {
+                "1": "The rate at which commercial banks lend to customers",
+                "2": "The rate at which the RBI lends short-term funds to banks against eligible securities",
+                "3": "The interest rate paid on all savings accounts",
+                "4": "The rate at which the government collects income tax"
+              },
+              "ans": "2",
+              "explanation": "The repo rate is the rate at which the RBI provides short-term funds to eligible banks against eligible securities under repo transactions."
+            },
+            {
+              "id": "30",
+              "question": "Which sector includes agriculture, forestry, and fishing?",
+              "options": {
+                "1": "Primary sector",
+                "2": "Secondary sector",
+                "3": "Tertiary sector",
+                "4": "Quaternary sector"
+              },
+              "ans": "1",
+              "explanation": "The primary sector involves activities that obtain or produce resources directly from nature, including agriculture, forestry, and fishing."
+            },
+            {
+              "id": "31",
+              "question": "What is the main purpose of monetary policy in India?",
+              "options": {
+                "1": "To decide the country's foreign policy",
+                "2": "To regulate elections",
+                "3": "To maintain price stability while keeping growth in mind",
+                "4": "To prepare state government budgets"
+              },
+              "ans": "3",
+              "explanation": "The RBI conducts monetary policy with the primary objective of maintaining price stability while keeping the objective of growth in mind."
+            },
+            {
+              "id": "32",
+              "question": "Which organisation primarily provides refinancing and development support for agriculture and rural development in India?",
+              "options": {
+                "1": "SEBI",
+                "2": "NABARD",
+                "3": "IRDAI",
+                "4": "EXIM Bank"
+              },
+              "ans": "2",
+              "explanation": "The National Bank for Agriculture and Rural Development (NABARD) supports agriculture and rural development through refinancing, development initiatives, and related functions."
             }
           ]
         }
