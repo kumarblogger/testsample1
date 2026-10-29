@@ -102,6 +102,30 @@
               },
               "ans": "4",
               "explanation": "The Preamble promises equality of status and of opportunity to all citizens."
+            },
+            {
+              "id": "pr_m_09",
+              "question": "In which landmark case did the Supreme Court explicitly state that the Preamble is 'not a part of the Constitution'?",
+              "options": {
+                "1": "Berubari Union case (1960)",
+                "2": "Golaknath case (1967)",
+                "3": "Kesavananda Bharati case (1973)",
+                "4": "Champakam Dorairajan case (1951)"
+              },
+              "ans": "1",
+              "explanation": "In the Berubari Union case (1960), the Supreme Court held that the Preamble is not a part of the Constitution, a view that was later reversed in the Kesavananda Bharati case."
+            },
+            {
+              "id": "pr_m_10",
+              "question": "Which of the following sequence of words is correct as per the Preamble of the Indian Constitution?",
+              "options": {
+                "1": "Sovereign, Socialist, Democratic, Secular, Republic",
+                "2": "Sovereign, Socialist, Secular, Democratic, Republic",
+                "3": "Sovereign, Secular, Socialist, Democratic, Republic",
+                "4": "Socialist, Sovereign, Secular, Democratic, Republic"
+              },
+              "ans": "2",
+              "explanation": "The correct sequence described in the opening declaration of the Preamble is 'Sovereign, Socialist, Secular, Democratic, Republic'."
             }
           ]
         },
@@ -166,6 +190,66 @@
               },
               "ans": "2",
               "explanation": "The Preamble expresses the Constitution's objectives and ideals and can assist courts in interpreting constitutional provisions. It does not override the operative provisions of the Constitution."
+            },
+            {
+              "id": "pr_h_06",
+              "question": "Consider the following statements regarding the Preamble:\n1. It is justiciable in nature.\n2. Its provisions can be legally enforced in courts of law.\nWhich of the statements given above is/are correct?",
+              "options": {
+                "1": "1 only",
+                "2": "2 only",
+                "3": "Both 1 and 2",
+                "4": "Neither 1 nor 2"
+              },
+              "ans": "4",
+              "explanation": "The Preamble is neither a source of power to legislature nor a prohibition upon the powers of legislature. It is non-justiciable, meaning its provisions are not enforceable in courts."
+            },
+            {
+              "id": "pr_h_07",
+              "question": "Which of the following terms was added to the Preamble specifically to emphasize the territorial integrity and unity of the nation?",
+              "options": {
+                "1": "Socialist",
+                "2": "Secular",
+                "3": "Integrity",
+                "4": "Fraternity"
+              },
+              "ans": "3",
+              "explanation": "The word 'Integrity' was added to the Preamble along with 'Socialist' and 'Secular' via the 42nd Constitutional Amendment Act, 1976, to ensure national integration."
+            },
+            {
+              "id": "pr_h_08",
+              "question": "From which country's constitution was the 'ideal of liberty, equality, and fraternity' borrowed into the Indian Constitution?",
+              "options": {
+                "1": "USA",
+                "2": "USSR",
+                "3": "French Revolution",
+                "4": "Irish Constitution"
+              },
+              "ans": "3",
+              "explanation": "The ideals of liberty, equality, and fraternity mentioned in the Preamble were inspired by the French Revolution (1789–1799)."
+            },
+            {
+              "id": "pr_h_09",
+              "question": "Consider the concepts mentioned in the Preamble:\n1. Sovereign\n2. Democratic\n3. Socialist\n4. Secular\n5. Republic\nArrange these words in the exact chronological order of their appearance in the Preamble text.",
+              "options": {
+                "1": "1, 3, 4, 2, 5",
+                "2": "1, 2, 3, 4, 5",
+                "3": "3, 1, 4, 2, 5",
+                "4": "1, 4, 3, 2, 5"
+              },
+              "ans": "1",
+              "explanation": "The text reads: 'Sovereign, Socialist, Secular, Democratic, Republic'. Therefore, the correct sequence is Sovereign (1), Socialist (3), Secular (4), Democratic (2), Republic (5)."
+            },
+            {
+              "id": "pr_h_10",
+              "question": "Which of the following statements is legally accurate regarding the amendability of the Preamble under Article 368?",
+              "options": {
+                "1": "It can be amended under Article 368 without restriction.",
+                "2": "It cannot be amended under any circumstances because it is outside the scope of Article 368.",
+                "3": "It can be amended, provided the amendment does not abrogate or violate the basic structure of the Constitution.",
+                "4": "It requires a special majority along with ratification by all state legislatures."
+              },
+              "ans": "3",
+              "explanation": "The Supreme Court in Kesavananda Bharati ruled that the Preamble is a part of the Constitution and can be amended under Article 368, but the basic elements cannot be destroyed."
             }
           ]
         },
@@ -278,171 +362,288 @@
               },
               "ans": "4",
               "explanation": "The word Democratic was part of the original Preamble. Socialist, Secular, and Integrity were added by the 42nd Amendment in 1976."
+            },
+            {
+              "id": "pr_e_10",
+              "question": "The ideals of 'Justice (social, economic and political)' in the Indian Preamble are inspired by which historical event?",
+              "options": {
+                "1": "Russian Revolution (1917)",
+                "2": "American Revolution",
+                "3": "French Revolution",
+                "4": "Glorious Revolution"
+              },
+              "ans": "1",
+              "explanation": "The ideal of justice—social, economic, and political—in the Preamble is inspired by the Russian Revolution of 1917."
             }
           ]
         }
-      }
-    }
-  },
-  {
-    "id": "eco7m2kp",
-    "subject": "economics",
-    "topics": {
-      "indian_economy": {
-        "id": "e4c8n2vx",
+      },
+      "fundamental_rights": {
+        "id": "fr9ikbfo",
         "moderate": {
           "questions": [
             {
-              "id": "33",
-              "question": "Consider the following statements about GDP:\n1. GDP measures the value of final goods and services produced within a country's domestic territory.\n2. GDP includes the value of all intermediate goods separately to avoid double counting.\n3. GDP can be measured at current prices and constant prices.\nWhich of the statements given above are correct?",
+              "id": "fr_m_01",
+              "question": "Which Article of the Indian Constitution abolishes 'Untouchability' and forbids its practice in any form?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
-              },
-              "ans": "2",
-              "explanation": "Statements 1 and 3 are correct. GDP measures final output within domestic territory and can be measured at current or constant prices. Counting intermediate goods separately would cause double counting."
-            },
-            {
-              "id": "34",
-              "question": "Consider the following statements about inflation:\n1. Inflation refers to a sustained increase in the general price level.\n2. Inflation always increases the purchasing power of money.\n3. The Consumer Price Index is used to measure retail inflation in India.\nWhich of the statements given above are correct?",
-              "options": {
-                "1": "1 only",
-                "2": "1 and 2 only",
-                "3": "1 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "Article 15",
+                "2": "Article 16",
+                "3": "Article 17",
+                "4": "Article 18"
               },
               "ans": "3",
-              "explanation": "Statements 1 and 3 are correct. Inflation generally reduces the purchasing power of money. CPI is an important measure of retail inflation in India."
+              "explanation": "Article 17 abolishes 'untouchability' and makes its practice in any form a punishable offense under the law."
             },
             {
-              "id": "35",
-              "question": "Consider the following statements about the Reserve Bank of India:\n1. RBI commenced operations on 1 April 1935.\n2. RBI was nationalised in 1949.\n3. RBI directly prepares the Union Budget of India.\nWhich of the statements given above are correct?",
+              "id": "fr_m_02",
+              "question": "Which writ is issued by a higher court to a lower court or tribunal to prevent it from exceeding its jurisdiction?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "2 and 3 only",
-                "3": "1 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "Habeas Corpus",
+                "2": "Mandamus",
+                "3": "Prohibition",
+                "4": "Quo-Warranto"
               },
-              "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. RBI began operations in 1935 and was nationalised in 1949. The Union Budget is prepared by the Government of India, not the RBI."
+              "ans": "3",
+              "explanation": "The writ of Prohibition is issued by a higher court to a lower court or tribunal to prevent them from exceeding their jurisdiction or usurping a jurisdiction they do not possess."
             },
             {
-              "id": "36",
-              "question": "Consider the following statements about monetary policy:\n1. The repo rate is associated with RBI lending to banks against eligible securities under repo transactions.\n2. An increase in the repo rate can make borrowing more expensive.\n3. Monetary policy in India is conducted by the Election Commission of India.\nWhich of the statements given above are correct?",
+              "id": "fr_m_03",
+              "question": "Under which Article can the Parliament restrict Fundamental Rights of members of the Armed Forces?",
               "options": {
-                "1": "1 only",
-                "2": "1 and 2 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
-              },
-              "ans": "2",
-              "explanation": "Statements 1 and 2 are correct. A higher repo rate can increase borrowing costs and help moderate inflationary pressures. The RBI conducts monetary policy."
-            },
-            {
-              "id": "37",
-              "question": "Consider the following statements about fiscal policy:\n1. Fiscal policy involves government taxation and expenditure.\n2. A fiscal deficit occurs when total government expenditure exceeds total receipts excluding borrowings.\n3. Fiscal policy is exclusively controlled by the RBI.\nWhich of the statements given above are correct?",
-              "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
-              },
-              "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. Fiscal policy concerns government revenue and expenditure. The RBI conducts monetary policy, while fiscal policy is formulated by the government."
-            },
-            {
-              "id": "38",
-              "question": "Consider the following statements about Goods and Services Tax (GST):\n1. GST is an indirect tax.\n2. GST was introduced in India on 1 July 2017.\n3. GST is a direct tax imposed only on personal income.\nWhich of the statements given above are correct?",
-              "options": {
-                "1": "1 only",
-                "2": "1 and 2 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "Article 31",
+                "2": "Article 33",
+                "3": "Article 34",
+                "4": "Article 35"
               },
               "ans": "2",
-              "explanation": "Statements 1 and 2 are correct. GST is an indirect tax on the supply of goods and services and was introduced in India on 1 July 2017."
+              "explanation": "Article 33 empowers Parliament to restrict or abrogate the application of Fundamental Rights to members of the armed forces, paramilitary forces, police, and intelligence agencies."
             },
             {
-              "id": "39",
-              "question": "Consider the following statements about the Planning Commission and NITI Aayog:\n1. The Planning Commission was established in 1950.\n2. NITI Aayog was established on 1 January 2015.\n3. NITI Aayog is a constitutional body established by the Constitution of India.\nWhich of the statements given above are correct?",
+              "id": "fr_m_04",
+              "question": "Which of the following Fundamental Rights cannot be suspended even during a National Emergency under Article 359?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "2 and 3 only",
-                "3": "1 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "Article 14 and Article 19",
+                "2": "Article 19 and Article 21",
+                "3": "Article 20 and Article 21",
+                "4": "Article 21 and Article 22"
               },
-              "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. NITI Aayog replaced the Planning Commission in 2015 and is an executive body, not a constitutional body."
+              "ans": "3",
+              "explanation": "By the 44th Amendment Act, the right to protection in respect of conviction for offenses (Article 20) and the right to life and personal liberty (Article 21) cannot be suspended even during a National Emergency."
             },
             {
-              "id": "40",
-              "question": "Consider the following statements about national income:\n1. Gross National Income considers income earned by residents from abroad as well as income earned domestically by residents.\n2. Depreciation represents the consumption of fixed capital.\n3. Net Domestic Product is obtained by adding depreciation to GDP.\nWhich of the statements given above are correct?",
+              "id": "fr_m_05",
+              "question": "Which Article guarantees freedom of speech and expression?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
-              },
-              "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. Net Domestic Product equals GDP minus depreciation, not GDP plus depreciation."
-            },
-            {
-              "id": "41",
-              "question": "Consider the following statements about poverty in India:\n1. Poverty can be measured using monetary and multidimensional indicators.\n2. Multidimensional poverty can include deprivation in health, education and living standards.\n3. Poverty is measured exclusively by the rate of inflation.\nWhich of the statements given above are correct?",
-              "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
-              },
-              "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. Multidimensional poverty considers overlapping deprivations such as health, education and living standards. Inflation alone does not measure poverty."
-            },
-            {
-              "id": "42",
-              "question": "Consider the following statements about unemployment:\n1. Disguised unemployment can occur when more workers are engaged in an activity than are actually needed.\n2. Seasonal unemployment may occur when work is available only during particular seasons.\n3. Open unemployment means that every person is employed but receives a low wage.\nWhich of the statements given above are correct?",
-              "options": {
-                "1": "1 only",
-                "2": "1 and 2 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "Article 18",
+                "2": "Article 19",
+                "3": "Article 20",
+                "4": "Article 21"
               },
               "ans": "2",
-              "explanation": "Statements 1 and 2 are correct. Open unemployment refers to people willing and able to work who cannot find employment, rather than people who are employed at low wages."
+              "explanation": "Article 19(1)(a) guarantees to all citizens the freedom of speech and expression, subject to reasonable restrictions under Article 19(2)."
             }
           ]
         },
         "hard": {
           "questions": [
             {
-              "id": "43",
-              "question": "Consider the following statements about the banking system in India:\n1. Commercial banks accept deposits from the public.\n2. Commercial banks provide loans and advances.\n3. The RBI is the only institution legally permitted to accept deposits from the public in India.\nWhich of the statements given above are correct?",
+              "id": "fr_h_01",
+              "question": "Consider the following statements regarding the Right to Equality under Article 14:\n1. It guarantees equality before the law and equal protection of the laws.\n2. 'Equality before the law' is a concept of American origin, while 'equal protection of the laws' is of British origin.\nWhich of the statements given above is/are correct?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "1 only",
+                "2": "2 only",
+                "3": "Both 1 and 2",
+                "4": "Neither 1 nor 2"
               },
               "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. Accepting deposits and providing credit are core functions of commercial banks. The RBI is not the only institution permitted to accept public deposits."
+              "explanation": "Statement 1 is correct. However, statement 2 is incorrect because 'equality before the law' is of British origin (negative concept), whereas 'equal protection of the laws' is borrowed from the American Constitution (positive concept)."
             },
             {
-              "id": "44",
-              "question": "Consider the following statements about the Cash Reserve Ratio (CRR):\n1. Banks must maintain a prescribed proportion of their net demand and time liabilities as cash balance with the RBI.\n2. The RBI can change the CRR as a monetary policy instrument.\n3. Banks can use the entire CRR balance freely for lending to customers.\nWhich of the statements given above are correct?",
+              "id": "fr_h_02",
+              "question": "The 'Doctrine of Eclipse' is primarily associated with which of the following?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "Article 13",
+                "2": "Article 21",
+                "3": "Article 32",
+                "4": "Article 368"
               },
               "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. CRR balances are maintained with the RBI and are not freely available to banks for lending."
+              "explanation": "The Doctrine of Eclipse, operating under Article 13, states that any pre-constitutional law inconsistent with Fundamental Rights is not null and void ab initio, but becomes eclipsed and dormant until the restriction is removed."
             },
             {
-              "id": "45",
-              "question": "Consider the following statements about the agricultural sector in India:\n1. Agriculture belongs to the primary sector.\n2. Agricultural productivity can be influenced by irrigation, technology and access to credit.\n3. The Green Revolution initially focused significantly on increasing food-grain production through improved seeds and complementary inputs.\nWhich of the statements given above are correct?",
+              "id": "fr_h_03",
+              "question": "Which case ruled that the Parliament cannot amend Fundamental Rights to take them away, propounding the 'Basic Structure' doctrine?",
+              "options": {
+                "1": "Golaknath v. State of Punjab",
+                "2": "Kesavananda Bharati v. State of Kerala",
+                "3": "Minerva Mills v. Union of India",
+                "4": "Indira Nehru Gandhi v. Raj Narain"
+              },
+              "ans": "2",
+              "explanation": "Kesavananda Bharati (1973) held that Parliament can amend any part of the Constitution, including Fundamental Rights, but cannot alter its basic structure."
+            },
+            {
+              "id": "fr_h_04",
+              "question": "Which of the following writs literally means 'We Command' and is issued to a public official to perform a mandatory duty?",
+              "options": {
+                "1": "Habeas Corpus",
+                "2": "Mandamus",
+                "3": "Certiorari",
+                "4": "Quo-Warranto"
+              },
+              "ans": "2",
+              "explanation": "'Mandamus' translates to 'We Command'. It is issued by a court to a public official, corporation, or lower court to compel performance of a public duty."
+            },
+            {
+              "id": "fr_h_05",
+              "question": "Article 21A, which provides for Right to Education, was added to the Constitution by which Amendment Act?",
+              "options": {
+                "1": "42nd Amendment Act, 1976",
+                "2": "44th Amendment Act, 1978",
+                "3": "86th Amendment Act, 2002",
+                "4": "91st Amendment Act, 2003"
+              },
+              "ans": "3",
+              "explanation": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A, making free and compulsory education for children aged 6 to 14 a Fundamental Right."
+            }
+          ]
+        },
+        "easy": {
+          "questions": [
+            {
+              "id": "fr_e_01",
+              "question": "In which part of the Indian Constitution are Fundamental Rights enshrined?",
+              "options": {
+                "1": "Part I",
+                "2": "Part II",
+                "3": "Part III",
+                "4": "Part IV"
+              },
+              "ans": "3",
+              "explanation": "Fundamental Rights are enshrined in Part III of the Constitution from Articles 12 to 35."
+            },
+            {
+              "id": "fr_e_02",
+              "question": "Which of the following articles is called the 'heart and soul' of the Constitution by Dr. B. R. Ambedkar?",
+              "options": {
+                "1": "Article 14",
+                "2": "Article 19",
+                "3": "Article 32",
+                "4": "Article 21"
+              },
+              "ans": "3",
+              "explanation": "Dr. B. R. Ambedkar described Article 32 (Right to Constitutional Remedies) as the very heart and soul of the Constitution."
+            },
+            {
+              "id": "fr_e_03",
+              "question": "From which country's constitution were the Fundamental Rights borrowed?",
+              "options": {
+                "1": "British Constitution",
+                "2": "USA Constitution",
+                "3": "Irish Constitution",
+                "4": "Canadian Constitution"
+              },
+              "ans": "2",
+              "explanation": "The Fundamental Rights in the Indian Constitution are inspired by the Bill of Rights of the United States Constitution."
+            },
+            {
+              "id": "fr_e_04",
+              "question": "Which Fundamental Right guarantees protection against arrest and detention in certain cases?",
+              "options": {
+                "1": "Article 19",
+                "2": "Article 20",
+                "3": "Article 22",
+                "4": "Article 25"
+              },
+              "ans": "3",
+              "explanation": "Article 22 provides protection against arrest and detention in certain cases under both punitive and preventive detention laws."
+            },
+            {
+              "id": "fr_e_05",
+              "question": "Are Fundamental Rights enforceable against private individuals?",
+              "options": {
+                "1": "Yes, against all individuals unconditionally",
+                "2": "No, they are generally enforceable against the State",
+                "3": "Only during financial emergencies",
+                "4": "Only through civil courts"
+              },
+              "ans": "2",
+              "explanation": "Fundamental Rights are primarily protected against actions by the 'State' (as defined under Article 12), though some rights like Article 17 and Article 23 protect against private actions."
+            }
+          ]
+        }
+      },
+      "dpsp": {
+        "id": "dp9ikbfo",
+        "moderate": {
+          "questions": [
+            {
+              "id": "dp_m_01",
+              "question": "Which Article of the Constitution directs the State to organize Village Panchayats?",
+              "options": {
+                "1": "Article 39",
+                "2": "Article 40",
+                "3": "Article 44",
+                "4": "Article 48"
+              },
+              "ans": "2",
+              "explanation": "Article 40 (a Gandhian principle) directs the State to organize village panchayats and endow them with necessary powers."
+            },
+            {
+              "id": "dp_m_02",
+              "question": "Which constitutional amendment added the Directive Principle relating to the promotion of cooperative societies?",
+              "options": {
+                "1": "42nd Amendment Act",
+                "2": "44th Amendment Act",
+                "3": "97th Amendment Act",
+                "4": "86th Amendment Act"
+              },
+              "ans": "3",
+              "explanation": "The 97th Constitutional Amendment Act of 2011 added Article 43B, promoting voluntary formation, autonomous functioning, and democratic control of cooperative societies."
+            },
+            {
+              "id": "dp_m_03",
+              "question": "Which DPSP directs the State to secure a Uniform Civil Code (UCC) for the citizens throughout the territory of India?",
+              "options": {
+                "1": "Article 44",
+                "2": "Article 45",
+                "3": "Article 48",
+                "4": "Article 50"
+              },
+              "ans": "1",
+              "explanation": "Article 44 of the Directive Principles of State Policy directs the State to endeavor to secure for citizens a Uniform Civil Code throughout India."
+            },
+            {
+              "id": "dp_m_04",
+              "question": "What is the primary legal status of the Directive Principles of State Policy?",
+              "options": {
+                "1": "Justiciable in High Courts only",
+                "2": "Justiciable in the Supreme Court",
+                "3": "Non-justiciable",
+                "4": "Enforceable by executive orders automatically"
+              },
+              "ans": "3",
+              "explanation": "Under Article 37, DPSP are non-justiciable, meaning they cannot be enforced in any court, but they are fundamental in the governance of the country."
+            },
+            {
+              "id": "dp_m_05",
+              "question": "Which Article deals with the separation of the judiciary from the executive in the public services of the State?",
+              "options": {
+                "1": "Article 48",
+                "2": "Article 49",
+                "3": "Article 50",
+                "4": "Article 51"
+              },
+              "ans": "3",
+              "explanation": "Article 50 directs the State to take steps to separate the judiciary from the executive in the public services of the State."
+            }
+          ]
+        },
+        "hard": {
+          "questions": [
+            {
+              "id": "dp_h_01",
+              "question": "Consider the following Directive Principles:\n1. To secure for all citizens a Uniform Civil Code.\n2. To separate the judiciary from the executive.\n3. To promote international peace and security.\nWhich of the above are classified as Liberal-Intellectual principles?",
               "options": {
                 "1": "1 and 2 only",
                 "2": "2 and 3 only",
@@ -450,215 +651,119 @@
                 "4": "1, 2 and 3"
               },
               "ans": "4",
-              "explanation": "All three statements are correct. Agriculture is a primary-sector activity, productivity depends on multiple inputs, and the Green Revolution promoted improved crop varieties alongside irrigation, fertilisers and other inputs."
+              "explanation": "All three (Articles 44, 50, and 51) belong to the category of Liberal-Intellectual principles under DPSP."
             },
             {
-              "id": "46",
-              "question": "Consider the following statements about the balance of payments:\n1. The current account records trade in goods and services, primary income and secondary income.\n2. Foreign direct investment is generally recorded in the financial account.\n3. A current account deficit necessarily means that a country has no foreign exchange reserves.\nWhich of the statements given above are correct?",
+              "id": "dp_h_02",
+              "question": "Which case established the principle of harmony and balance between Fundamental Rights and Directive Principles?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
-              },
-              "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. A current account deficit can be financed through financial flows or changes in reserves; it does not necessarily mean reserves are zero."
-            },
-            {
-              "id": "47",
-              "question": "Consider the following statements about foreign direct investment (FDI):\n1. FDI generally involves a lasting interest and significant influence in an enterprise in another economy.\n2. FDI can bring capital, technology and management expertise.\n3. FDI and foreign portfolio investment always involve identical levels of management control.\nWhich of the statements given above are correct?",
-              "options": {
-                "1": "1 only",
-                "2": "1 and 2 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "Champakam Dorairajan case",
+                "2": "Minerva Mills case (1980)",
+                "3": "Golaknath case",
+                "4": "Kesavananda Bharati case"
               },
               "ans": "2",
-              "explanation": "Statements 1 and 2 are correct. FDI is associated with a lasting interest and influence, whereas portfolio investment generally does not provide the same degree of managerial influence."
+              "explanation": "In Minerva Mills v. Union of India (1980), the Supreme Court held that the Indian Constitution is founded on the bedrock of the balance between Fundamental Rights and Directive Principles."
             },
             {
-              "id": "48",
-              "question": "Consider the following statements about the Finance Commission of India:\n1. It is provided for under Article 280 of the Constitution.\n2. It recommends the distribution of certain tax revenues between the Union and the States.\n3. It is a permanent body with all members serving indefinitely.\nWhich of the statements given above are correct?",
+              "id": "dp_h_03",
+              "question": "Which Constitutional Amendment added free legal aid and participation of workers in the management of industries as Directive Principles?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "42nd Amendment Act, 1976",
+                "2": "44th Amendment Act, 1978",
+                "3": "86th Amendment Act, 2002",
+                "4": "73rd Amendment Act, 1992"
               },
               "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. The President constitutes a Finance Commission every five years or earlier when necessary; it is not a permanent body with indefinite membership."
+              "explanation": "The 42nd Amendment Act added new directives: Article 39A (equal justice and free legal aid) and Article 43A (participation of workers in management)."
             },
             {
-              "id": "49",
-              "question": "Consider the following statements about public goods:\n1. A pure public good is generally non-rival in consumption.\n2. A pure public good is generally non-excludable.\n3. National defence is a commonly cited example of a public good.\nWhich of the statements given above are correct?",
+              "id": "dp_h_04",
+              "question": "Which of the following Articles directs the State to protect and improve the environment and to safeguard forests and wildlife?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "Article 47",
+                "2": "Article 48A",
+                "3": "Article 49",
+                "4": "Article 50"
               },
-              "ans": "4",
-              "explanation": "All three statements are correct. Pure public goods are non-rival and non-excludable, and national defence is a standard example."
+              "ans": "2",
+              "explanation": "Article 48A was added by the 42nd Amendment Act, 1976, directing the State to protect and improve the environment and safeguard forests and wildlife."
             },
             {
-              "id": "50",
-              "question": "Consider the following statements about the Securities and Exchange Board of India (SEBI):\n1. SEBI regulates the securities market in India.\n2. SEBI is responsible for protecting investor interests and promoting market development.\n3. SEBI sets the monetary policy repo rate.\nWhich of the statements given above are correct?",
+              "id": "dp_h_05",
+              "question": "What happens if a law enacted to implement a Directive Principle violates Article 14 or Article 19, as per Article 31C (inserted by the 25th Amendment)?",
               "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
+                "1": "The law is automatically void.",
+                "2": "The law cannot be declared unconstitutional merely on the ground of infringing Article 14 or 19.",
+                "3": "It requires prior presidential assent.",
+                "4": "It requires approval from two-thirds of state assemblies."
               },
-              "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. SEBI regulates the securities market and protects investors. The RBI sets the repo rate."
-            },
-            {
-              "id": "51",
-              "question": "Consider the following statements about economic growth and economic development:\n1. Economic growth refers to an increase in real output over time.\n2. Economic development includes qualitative improvements in living standards.\n3. Economic growth always guarantees the removal of poverty.\nWhich of the statements given above are correct?",
-              "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
-              },
-              "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. Growth is an increase in output, while development encompasses broader well-being. Growth does not automatically eliminate poverty."
-            },
-            {
-              "id": "52",
-              "question": "Consider the following statements about the Minimum Support Price (MSP):\n1. MSP is announced by the government for certain agricultural crops.\n2. The CACP recommends MSPs.\n3. MSP is legally guaranteed for all crops in all markets.\nWhich of the statements given above are correct?",
-              "options": {
-                "1": "1 and 2 only",
-                "2": "1 and 3 only",
-                "3": "2 and 3 only",
-                "4": "1, 2 and 3"
-              },
-              "ans": "1",
-              "explanation": "Statements 1 and 2 are correct. MSPs are announced based on CACP recommendations, but they are not universally backed by statutory legal guarantees across all crops and markets."
+              "ans": "2",
+              "explanation": "Article 31C provides that a law made to implement DPSPs under Article 39(b) and (c) cannot be challenged on the ground that it violates Article 14 or Article 19."
             }
           ]
         },
         "easy": {
           "questions": [
             {
-              "id": "23",
-              "question": "Which institution is responsible for issuing most currency notes in India?",
+              "id": "dp_e_01",
+              "question": "In which part of the Indian Constitution are the Directive Principles of State Policy included?",
               "options": {
-                "1": "State Bank of India",
-                "2": "Reserve Bank of India",
-                "3": "Ministry of Finance",
-                "4": "NITI Aayog"
+                "1": "Part III",
+                "2": "Part IV",
+                "3": "Part IV-A",
+                "4": "Part V"
               },
               "ans": "2",
-              "explanation": "The Reserve Bank of India (RBI) issues banknotes in India, except the one-rupee note, which is issued by the Government of India."
+              "explanation": "DPSP are outlined in Part IV of the Constitution, covering Articles 36 to 51."
             },
             {
-              "id": "24",
-              "question": "What does GDP stand for?",
+              "id": "dp_e_02",
+              "question": "From which country's constitution were the Directive Principles borrowed?",
               "options": {
-                "1": "Gross Domestic Product",
-                "2": "General Domestic Production",
-                "3": "Gross Development Plan",
-                "4": "General Development Product"
+                "1": "Irish Constitution",
+                "2": "Australian Constitution",
+                "3": "Weimar Constitution of Germany",
+                "4": "Soviet Constitution"
               },
               "ans": "1",
-              "explanation": "GDP stands for Gross Domestic Product. It measures the value of final goods and services produced within a country's domestic territory during a specified period."
+              "explanation": "The DPSP were borrowed from the Irish Constitution of 1937, which had copied it from the Spanish Constitution."
             },
             {
-              "id": "25",
-              "question": "Which institution is known as the central bank of India?",
+              "id": "dp_e_03",
+              "question": "Who described the Directive Principles as 'novel features' of the Indian Constitution?",
               "options": {
-                "1": "State Bank of India",
-                "2": "Punjab National Bank",
-                "3": "Reserve Bank of India",
-                "4": "NABARD"
-              },
-              "ans": "3",
-              "explanation": "The Reserve Bank of India is India's central bank and is responsible for monetary policy and key banking functions."
-            },
-            {
-              "id": "26",
-              "question": "What is inflation?",
-              "options": {
-                "1": "A continuous fall in the general price level",
-                "2": "A sustained increase in the general price level",
-                "3": "An increase in the value of money",
-                "4": "A decrease in the money supply in every situation"
+                "1": "Jawaharlal Nehru",
+                "2": "Dr. B. R. Ambedkar",
+                "3": "Granville Austin",
+                "4": "K. C. Wheare"
               },
               "ans": "2",
-              "explanation": "Inflation is a sustained increase in the general price level of goods and services, which reduces the purchasing power of money."
+              "explanation": "Dr. B. R. Ambedkar described the Directive Principles of State Policy as a 'novel feature' of the Indian Constitution."
             },
             {
-              "id": "27",
-              "question": "Which tax is an example of an indirect tax in India?",
+              "id": "dp_e_04",
+              "question": "Which Article of DPSP deals with the promotion of international peace and security?",
               "options": {
-                "1": "Income tax",
-                "2": "Corporation tax",
-                "3": "Goods and Services Tax",
-                "4": "Wealth tax"
+                "1": "Article 48",
+                "2": "Article 49",
+                "3": "Article 50",
+                "4": "Article 51"
               },
-              "ans": "3",
-              "explanation": "Goods and Services Tax (GST) is an indirect tax imposed on the supply of goods and services."
+              "ans": "4",
+              "explanation": "Article 51 contains provisions for the promotion of international peace and security, marking the conclusion of Part IV."
             },
             {
-              "id": "28",
-              "question": "Which organisation replaced the Planning Commission of India?",
+              "id": "dp_e_05",
+              "question": "Which DPSP relates to the organization of agriculture and animal husbandry on modern and scientific lines?",
               "options": {
-                "1": "Finance Commission",
-                "2": "NITI Aayog",
-                "3": "National Development Council",
-                "4": "Reserve Bank of India"
-              },
-              "ans": "2",
-              "explanation": "NITI Aayog was established on 1 January 2015, replacing the Planning Commission."
-            },
-            {
-              "id": "29",
-              "question": "What is the repo rate?",
-              "options": {
-                "1": "The rate at which commercial banks lend to customers",
-                "2": "The rate at which the RBI lends short-term funds to banks against eligible securities",
-                "3": "The interest rate paid on all savings accounts",
-                "4": "The rate at which the government collects income tax"
+                "1": "Article 45",
+                "2": "Article 48",
+                "3": "Article 47",
+                "4": "Article 46"
               },
               "ans": "2",
-              "explanation": "The repo rate is the rate at which the RBI provides short-term funds to eligible banks against eligible securities under repo transactions."
-            },
-            {
-              "id": "30",
-              "question": "Which sector includes agriculture, forestry, and fishing?",
-              "options": {
-                "1": "Primary sector",
-                "2": "Secondary sector",
-                "3": "Tertiary sector",
-                "4": "Quaternary sector"
-              },
-              "ans": "1",
-              "explanation": "The primary sector involves activities that obtain or produce resources directly from nature, including agriculture, forestry, and fishing."
-            },
-            {
-              "id": "31",
-              "question": "What is the main purpose of monetary policy in India?",
-              "options": {
-                "1": "To decide the country's foreign policy",
-                "2": "To regulate elections",
-                "3": "To maintain price stability while keeping growth in mind",
-                "4": "To prepare state government budgets"
-              },
-              "ans": "3",
-              "explanation": "The RBI conducts monetary policy with the primary objective of maintaining price stability while keeping the objective of growth in mind."
-            },
-            {
-              "id": "32",
-              "question": "Which organisation primarily provides refinancing and development support for agriculture and rural development in India?",
-              "options": {
-                "1": "SEBI",
-                "2": "NABARD",
-                "3": "IRDAI",
-                "4": "EXIM Bank"
-              },
-              "ans": "2",
-              "explanation": "The National Bank for Agriculture and Rural Development (NABARD) supports agriculture and rural development through refinancing, development initiatives, and related functions."
+              "explanation": "Article 48 directs the State to organize agriculture and animal husbandry on modern and scientific lines and prohibit the slaughter of cows and calves."
             }
           ]
         }
