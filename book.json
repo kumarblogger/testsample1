@@ -1,769 +1,156 @@
-[
-  {
-    "id": "r2ctdokl",
-    "subject": "polity",
-    "topics": {
-      "preamble": {
-        "id": "0l9ikbfo",
-        "moderate": {
-          "questions": [
-            {
-              "id": "10",
-              "question": "Which case established that the Preamble is part of the Constitution?",
-              "options": {
-                "1": "Golaknath v. State of Punjab",
-                "2": "Kesavananda Bharati v. State of Kerala",
-                "3": "Maneka Gandhi v. Union of India",
-                "4": "Minerva Mills v. Union of India"
+                "2": "மீதமுள்ள அதிகாரங்கள் ஒன்றியத்திடம் இருப்பது",
+                "3": "இரட்டை குடியுரிமை",
+                "4": "மாநிலங்களுக்கு தனி ராணுவம்"
               },
               "ans": "2",
-              "explanation": "In Kesavananda Bharati v. State of Kerala (1973), the Supreme Court held that the Preamble is part of the Constitution and that Parliament cannot alter its basic structure."
+              "explanation": "மீதமுள்ள சட்டமியற்றும் அதிகாரங்கள் ஒன்றியத்திடம் இருப்பது இந்தியக் கூட்டாட்சியில் வலுவான ஒன்றிய அம்சமாகும்."
             },
             {
-              "id": "11",
-              "question": "Can the Preamble be amended under Article 368?",
+              "id": "8",
+              "question": "தேசிய அவசரநிலையின்போது மாநிலப் பட்டியல் மீது நாடாளுமன்றம் சட்டம் இயற்றும் அதிகாரம் எந்த உறுப்பில் உள்ளது?",
               "options": {
-                "1": "No, under any circumstances",
-                "2": "Yes, without any limitations",
-                "3": "Yes, subject to the basic structure doctrine",
-                "4": "Only by a Supreme Court order"
+                "1": "உறுப்பு 249",
+                "2": "உறுப்பு 250",
+                "3": "உறுப்பு 252",
+                "4": "உறுப்பு 263"
+              },
+              "ans": "2",
+              "explanation": "உறுப்பு 250ன் கீழ் தேசிய அவசரநிலை அமலில் இருக்கும் போது நாடாளுமன்றம் மாநிலப் பட்டியல் விவகாரங்களில் சட்டம் இயற்றலாம்."
+            },
+            {
+              "id": "9",
+              "question": "இரு அல்லது அதற்கு மேற்பட்ட மாநிலங்கள் ஒப்புக்கொண்டால், அவற்றுக்காக நாடாளுமன்றம் மாநிலப் பட்டியல் விவகாரத்தில் சட்டம் இயற்றும் நடைமுறை எந்த உறுப்பில் உள்ளது?",
+              "options": {
+                "1": "உறுப்பு 249",
+                "2": "உறுப்பு 250",
+                "3": "உறுப்பு 252",
+                "4": "உறுப்பு 254"
               },
               "ans": "3",
-              "explanation": "The Preamble can be amended under Article 368, but an amendment cannot damage or destroy the basic structure of the Constitution."
-            },
-            {
-              "id": "12",
-              "question": "Which term in the Preamble indicates that India has no official state religion?",
-              "options": {
-                "1": "Sovereign",
-                "2": "Secular",
-                "3": "Republic",
-                "4": "Democratic"
-              },
-              "ans": "2",
-              "explanation": "Secular means that the state does not have an official religion and must treat religions in accordance with constitutional principles."
-            },
-            {
-              "id": "13",
-              "question": "What does the term Republic mean in the Preamble?",
-              "options": {
-                "1": "The head of state is hereditary",
-                "2": "The country is ruled by the military",
-                "3": "The head of state is elected, directly or indirectly, for a specified term",
-                "4": "The country has no written Constitution"
-              },
-              "ans": "3",
-              "explanation": "A republic has a non-hereditary head of state who holds office according to constitutional provisions."
-            },
-            {
-              "id": "14",
-              "question": "Which ideal in the Preamble promotes fraternity?",
-              "options": {
-                "1": "A sense of brotherhood and common unity",
-                "2": "Economic competition between states",
-                "3": "Absolute authority of the government",
-                "4": "Hereditary political leadership"
-              },
-              "ans": "1",
-              "explanation": "Fraternity promotes brotherhood and assures the dignity of the individual and the unity and integrity of the nation."
-            },
-            {
-              "id": "15",
-              "question": "The Preamble promises justice in which three forms?",
-              "options": {
-                "1": "Civil, criminal, and administrative",
-                "2": "Social, economic, and political",
-                "3": "Religious, cultural, and educational",
-                "4": "National, international, and local"
-              },
-              "ans": "2",
-              "explanation": "The Preamble promises social, economic, and political justice to all citizens."
-            },
-            {
-              "id": "16",
-              "question": "Which forms of liberty are expressly mentioned in the Preamble?",
-              "options": {
-                "1": "Trade, property, and employment",
-                "2": "Movement, residence, and profession",
-                "3": "Thought, expression, belief, faith, and worship",
-                "4": "Education, health, and employment"
-              },
-              "ans": "3",
-              "explanation": "The Preamble secures liberty of thought, expression, belief, faith, and worship."
-            },
-            {
-              "id": "17",
-              "question": "Which forms of equality are mentioned in the Preamble?",
-              "options": {
-                "1": "Equality of income and property",
-                "2": "Equality of religion and language only",
-                "3": "Equality of political parties",
-                "4": "Equality of status and opportunity"
-              },
-              "ans": "4",
-              "explanation": "The Preamble promises equality of status and of opportunity to all citizens."
-            },
-            {
-              "id": "pr_m_09",
-              "question": "In which landmark case did the Supreme Court explicitly state that the Preamble is 'not a part of the Constitution'?",
-              "options": {
-                "1": "Berubari Union case (1960)",
-                "2": "Golaknath case (1967)",
-                "3": "Kesavananda Bharati case (1973)",
-                "4": "Champakam Dorairajan case (1951)"
-              },
-              "ans": "1",
-              "explanation": "In the Berubari Union case (1960), the Supreme Court held that the Preamble is not a part of the Constitution, a view that was later reversed in the Kesavananda Bharati case."
-            },
-            {
-              "id": "pr_m_10",
-              "question": "Which of the following sequence of words is correct as per the Preamble of the Indian Constitution?",
-              "options": {
-                "1": "Sovereign, Socialist, Democratic, Secular, Republic",
-                "2": "Sovereign, Socialist, Secular, Democratic, Republic",
-                "3": "Sovereign, Secular, Socialist, Democratic, Republic",
-                "4": "Socialist, Sovereign, Secular, Democratic, Republic"
-              },
-              "ans": "2",
-              "explanation": "The correct sequence described in the opening declaration of the Preamble is 'Sovereign, Socialist, Secular, Democratic, Republic'."
+              "explanation": "உறுப்பு 252ன் கீழ் இரண்டு அல்லது அதற்கு மேற்பட்ட மாநிலச் சட்டமன்றங்கள் தீர்மானம் நிறைவேற்றினால், அந்த மாநிலங்களுக்காக நாடாளுமன்றம் சட்டம் இயற்றலாம்."
             }
           ]
-        },
-        "hard": {
-          "questions": [
-            {
-              "id": "18",
-              "question": "The opening words of the Preamble are:",
-              "options": {
-                "1": "We, the citizens of India",
-                "2": "We, the people of India",
-                "3": "The Parliament of India",
-                "4": "The Constituent Assembly of India"
-              },
-              "ans": "2",
-              "explanation": "The Preamble begins with We, the People of India, expressing popular sovereignty and the source of constitutional authority."
-            },
-            {
-              "id": "19",
-              "question": "Which of the following is NOT a word used to describe India in the Preamble?",
-              "options": {
-                "1": "Sovereign",
-                "2": "Socialist",
-                "3": "Federal",
-                "4": "Democratic"
-              },
-              "ans": "3",
-              "explanation": "Federal is not explicitly used in the Preamble, although the Constitution establishes a federal system with a strong Centre."
-            },
-            {
-              "id": "20",
-              "question": "Which part of the Constitution contains the Preamble?",
-              "options": {
-                "1": "Part I",
-                "2": "Part II",
-                "3": "Part III",
-                "4": "It is an introductory statement and is not assigned a Part number"
-              },
-              "ans": "4",
-              "explanation": "The Preamble appears at the beginning of the Constitution and is not assigned a Part number."
-            },
-            {
-              "id": "21",
-              "question": "Which constitutional principle means that India is independent in its internal and external affairs?",
-              "options": {
-                "1": "Sovereign",
-                "2": "Secular",
-                "3": "Socialist",
-                "4": "Republic"
-              },
-              "ans": "1",
-              "explanation": "Sovereignty means that India is independent and possesses supreme authority in its internal affairs and independence in its external relations."
-            },
-            {
-              "id": "22",
-              "question": "What is the significance of the Preamble in constitutional interpretation?",
-              "options": {
-                "1": "It overrides every Article of the Constitution",
-                "2": "It helps explain the objectives and guiding principles of the Constitution",
-                "3": "It creates a separate legislature",
-                "4": "It replaces Fundamental Rights"
-              },
-              "ans": "2",
-              "explanation": "The Preamble expresses the Constitution's objectives and ideals and can assist courts in interpreting constitutional provisions. It does not override the operative provisions of the Constitution."
-            },
-            {
-              "id": "pr_h_06",
-              "question": "Consider the following statements regarding the Preamble:\n1. It is justiciable in nature.\n2. Its provisions can be legally enforced in courts of law.\nWhich of the statements given above is/are correct?",
-              "options": {
-                "1": "1 only",
-                "2": "2 only",
-                "3": "Both 1 and 2",
-                "4": "Neither 1 nor 2"
-              },
-              "ans": "4",
-              "explanation": "The Preamble is neither a source of power to legislature nor a prohibition upon the powers of legislature. It is non-justiciable, meaning its provisions are not enforceable in courts."
-            },
-            {
-              "id": "pr_h_07",
-              "question": "Which of the following terms was added to the Preamble specifically to emphasize the territorial integrity and unity of the nation?",
-              "options": {
-                "1": "Socialist",
-                "2": "Secular",
-                "3": "Integrity",
-                "4": "Fraternity"
-              },
-              "ans": "3",
-              "explanation": "The word 'Integrity' was added to the Preamble along with 'Socialist' and 'Secular' via the 42nd Constitutional Amendment Act, 1976, to ensure national integration."
-            },
-            {
-              "id": "pr_h_08",
-              "question": "From which country's constitution was the 'ideal of liberty, equality, and fraternity' borrowed into the Indian Constitution?",
-              "options": {
-                "1": "USA",
-                "2": "USSR",
-                "3": "French Revolution",
-                "4": "Irish Constitution"
-              },
-              "ans": "3",
-              "explanation": "The ideals of liberty, equality, and fraternity mentioned in the Preamble were inspired by the French Revolution (1789–1799)."
-            },
-            {
-              "id": "pr_h_09",
-              "question": "Consider the concepts mentioned in the Preamble:\n1. Sovereign\n2. Democratic\n3. Socialist\n4. Secular\n5. Republic\nArrange these words in the exact chronological order of their appearance in the Preamble text.",
-              "options": {
-                "1": "1, 3, 4, 2, 5",
-                "2": "1, 2, 3, 4, 5",
-                "3": "3, 1, 4, 2, 5",
-                "4": "1, 4, 3, 2, 5"
-              },
-              "ans": "1",
-              "explanation": "The text reads: 'Sovereign, Socialist, Secular, Democratic, Republic'. Therefore, the correct sequence is Sovereign (1), Socialist (3), Secular (4), Democratic (2), Republic (5)."
-            },
-            {
-              "id": "pr_h_10",
-              "question": "Which of the following statements is legally accurate regarding the amendability of the Preamble under Article 368?",
-              "options": {
-                "1": "It can be amended under Article 368 without restriction.",
-                "2": "It cannot be amended under any circumstances because it is outside the scope of Article 368.",
-                "3": "It can be amended, provided the amendment does not abrogate or violate the basic structure of the Constitution.",
-                "4": "It requires a special majority along with ratification by all state legislatures."
-              },
-              "ans": "3",
-              "explanation": "The Supreme Court in Kesavananda Bharati ruled that the Preamble is a part of the Constitution and can be amended under Article 368, but the basic elements cannot be destroyed."
-            }
-          ]
-        },
+        }
+      },
+      "constitutional_bodies": {
+        "id": "cb7k2m1",
         "easy": {
           "questions": [
             {
               "id": "1",
-              "question": "How many times was the Preamble amended?",
+              "question": "இந்தியத் தேர்தல் ஆணையம் எந்த உறுப்பின் கீழ் அமைக்கப்பட்டுள்ளது?",
               "options": {
-                "1": "1",
-                "2": "4",
-                "3": "3",
-                "4": "2"
+                "1": "உறுப்பு 280",
+                "2": "உறுப்பு 315",
+                "3": "உறுப்பு 324",
+                "4": "உறுப்பு 338"
               },
-              "ans": "1",
-              "explanation": "The Preamble to the Indian Constitution was amended only once by the 42nd Constitutional Amendment Act of 1976."
+              "ans": "3",
+              "explanation": "உறுப்பு 324 தேர்தல்களின் மேற்பார்வை, வழிநடத்தல் மற்றும் கட்டுப்பாட்டைத் தேர்தல் ஆணையத்திடம் ஒப்படைக்கிறது."
             },
             {
               "id": "2",
-              "question": "Which Constitutional Amendment Act amended the Preamble?",
+              "question": "நிதி ஆணையம் எத்தனை ஆண்டுகளுக்கு ஒருமுறை அமைக்கப்படுகிறது?",
               "options": {
-                "1": "44th Amendment Act",
-                "2": "42nd Amendment Act",
-                "3": "24th Amendment Act",
-                "4": "73rd Amendment Act"
+                "1": "3 ஆண்டுகள்",
+                "2": "4 ஆண்டுகள்",
+                "3": "5 ஆண்டுகள்",
+                "4": "6 ஆண்டுகள்"
               },
-              "ans": "2",
-              "explanation": "The 42nd Constitutional Amendment Act of 1976 amended the Preamble to the Indian Constitution."
+              "ans": "3",
+              "explanation": "உறுப்பு 280ன் கீழ் குடியரசுத் தலைவர் பொதுவாக ஒவ்வொரு ஐந்து ஆண்டுகளுக்கும் நிதி ஆணையத்தை அமைக்கிறார்."
             },
             {
               "id": "3",
-              "question": "Which three words were added to the Preamble by the 42nd Amendment?",
+              "question": "மத்திய அரசுப் பணியாளர் தேர்வாணையம் (UPSC) தொடர்பான உறுப்பு எது?",
               "options": {
-                "1": "Justice, Liberty, Equality",
-                "2": "Democratic, Republic, Justice",
-                "3": "Socialist, Secular, Integrity",
-                "4": "Sovereign, Socialist, Republic"
-              },
-              "ans": "3",
-              "explanation": "The 42nd Amendment added the words Socialist, Secular, and Integrity to the Preamble."
-            },
-            {
-              "id": "4",
-              "question": "Who described the Preamble as the identity card of the Constitution?",
-              "options": {
-                "1": "Dr. B. R. Ambedkar",
-                "2": "N. A. Palkhivala",
-                "3": "Jawaharlal Nehru",
-                "4": "K. M. Munshi"
+                "1": "உறுப்பு 280",
+                "2": "உறுப்பு 315",
+                "3": "உறுப்பு 324",
+                "4": "உறுப்பு 368"
               },
               "ans": "2",
-              "explanation": "N. A. Palkhivala famously described the Preamble as the identity card of the Constitution."
+              "explanation": "உறுப்பு 315 ஒன்றியம் மற்றும் மாநிலங்களுக்கான அரசுப் பணியாளர் தேர்வாணையங்களைப் பற்றிக் கூறுகிறது."
+            }
+          ]
+        },
+        "moderate": {
+          "questions": [
+            {
+              "id": "4",
+              "question": "இந்தியத் தலைமை கணக்குத் தணிக்கையாளர் (CAG) தொடர்பான உறுப்பு எது?",
+              "options": {
+                "1": "உறுப்பு 148",
+                "2": "உறுப்பு 165",
+                "3": "உறுப்பு 280",
+                "4": "உறுப்பு 324"
+              },
+              "ans": "1",
+              "explanation": "உறுப்பு 148 இந்தியத் தலைமை கணக்குத் தணிக்கையாளரின் பதவியை நிறுவுகிறது."
             },
             {
               "id": "5",
-              "question": "The Preamble to the Indian Constitution is based on which resolution?",
+              "question": "தேசிய பட்டியலின சாதியினர் ஆணையம் எந்த உறுப்பின் கீழ் அமைக்கப்பட்டுள்ளது?",
               "options": {
-                "1": "Cabinet Mission Resolution",
-                "2": "Mountbatten Plan",
-                "3": "Objectives Resolution",
-                "4": "Government of India Resolution"
+                "1": "உறுப்பு 338",
+                "2": "உறுப்பு 338A",
+                "3": "உறுப்பு 340",
+                "4": "உறுப்பு 350B"
               },
-              "ans": "3",
-              "explanation": "The Preamble is based on the Objectives Resolution moved by Jawaharlal Nehru in the Constituent Assembly on 13 December 1946 and adopted on 22 January 1947."
+              "ans": "1",
+              "explanation": "உறுப்பு 338 தேசிய பட்டியலின சாதியினர் ஆணையத்தைப் பற்றிக் கூறுகிறது."
             },
             {
               "id": "6",
-              "question": "Who moved the Objectives Resolution in the Constituent Assembly?",
+              "question": "மாநில அரசுப் பணியாளர் தேர்வாணையத் தலைவர் யாரால் நியமிக்கப்படுகிறார்?",
               "options": {
-                "1": "Dr. Rajendra Prasad",
-                "2": "Sardar Vallabhbhai Patel",
-                "3": "Dr. B. R. Ambedkar",
-                "4": "Jawaharlal Nehru"
-              },
-              "ans": "4",
-              "explanation": "Jawaharlal Nehru moved the Objectives Resolution on 13 December 1946."
-            },
-            {
-              "id": "7",
-              "question": "On which date was the Constitution of India adopted?",
-              "options": {
-                "1": "15 August 1947",
-                "2": "26 November 1949",
-                "3": "26 January 1950",
-                "4": "2 October 1949"
+                "1": "குடியரசுத் தலைவர்",
+                "2": "ஆளுநர்",
+                "3": "முதலமைச்சர்",
+                "4": "உயர்நீதிமன்றத் தலைமை நீதிபதி"
               },
               "ans": "2",
-              "explanation": "The Constituent Assembly adopted the Constitution of India on 26 November 1949."
+              "explanation": "மாநில அரசுப் பணியாளர் தேர்வாணையத் தலைவர் மற்றும் உறுப்பினர்களை மாநில ஆளுநர் நியமிக்கிறார்."
+            }
+          ]
+        },
+        "hard": {
+          "questions": [
+            {
+              "id": "7",
+              "question": "நிதி ஆணையத்தின் முக்கியப் பணி எது?",
+              "options": {
+                "1": "தேர்தலை நடத்துதல்",
+                "2": "ஒன்றியம் மற்றும் மாநிலங்களுக்கு இடையிலான வரி வருவாய்ப் பகிர்வைப் பரிந்துரைத்தல்",
+                "3": "சட்டங்களை ரத்து செய்தல்",
+                "4": "நீதிபதிகளை நியமித்தல்"
+              },
+              "ans": "2",
+              "explanation": "நிதி ஆணையம் ஒன்றியம் மற்றும் மாநிலங்களுக்கு இடையிலான வரி வருவாய்ப் பகிர்வு உள்ளிட்ட நிதி விவகாரங்களில் பரிந்துரைகளை வழங்குகிறது."
             },
             {
               "id": "8",
-              "question": "On which date did the Constitution of India come into force?",
+              "question": "இந்தியத் தலைமை கணக்குத் தணிக்கையாளரை யார் நியமிக்கிறார்?",
               "options": {
-                "1": "26 November 1949",
-                "2": "15 August 1947",
-                "3": "26 January 1950",
-                "4": "30 January 1950"
+                "1": "பிரதமர்",
+                "2": "குடியரசுத் தலைவர்",
+                "3": "மக்களவைத் தலைவர்",
+                "4": "தலைமை நீதிபதி"
               },
-              "ans": "3",
-              "explanation": "The Constitution of India came into force on 26 January 1950, celebrated annually as Republic Day."
+              "ans": "2",
+              "explanation": "உறுப்பு 148ன் படி இந்தியத் தலைமை கணக்குத் தணிக்கையாளரை குடியரசுத் தலைவர் நியமிக்கிறார்."
             },
             {
               "id": "9",
-              "question": "Which of the following words was present in the original Preamble?",
+              "question": "UPSC தலைவர் மற்றும் உறுப்பினர்களின் பதவிக்காலம் அல்லது வயது வரம்பு எது முதலில் வந்தாலும் அதன்படி முடிவடைகிறது?",
               "options": {
-                "1": "Socialist",
-                "2": "Secular",
-                "3": "Integrity",
-                "4": "Democratic"
-              },
-              "ans": "4",
-              "explanation": "The word Democratic was part of the original Preamble. Socialist, Secular, and Integrity were added by the 42nd Amendment in 1976."
-            },
-            {
-              "id": "pr_e_10",
-              "question": "The ideals of 'Justice (social, economic and political)' in the Indian Preamble are inspired by which historical event?",
-              "options": {
-                "1": "Russian Revolution (1917)",
-                "2": "American Revolution",
-                "3": "French Revolution",
-                "4": "Glorious Revolution"
-              },
-              "ans": "1",
-              "explanation": "The ideal of justice—social, economic, and political—in the Preamble is inspired by the Russian Revolution of 1917."
-            }
-          ]
-        }
-      },
-      "fundamental_rights": {
-        "id": "fr9ikbfo",
-        "moderate": {
-          "questions": [
-            {
-              "id": "fr_m_01",
-              "question": "Which Article of the Indian Constitution abolishes 'Untouchability' and forbids its practice in any form?",
-              "options": {
-                "1": "Article 15",
-                "2": "Article 16",
-                "3": "Article 17",
-                "4": "Article 18"
-              },
-              "ans": "3",
-              "explanation": "Article 17 abolishes 'untouchability' and makes its practice in any form a punishable offense under the law."
-            },
-            {
-              "id": "fr_m_02",
-              "question": "Which writ is issued by a higher court to a lower court or tribunal to prevent it from exceeding its jurisdiction?",
-              "options": {
-                "1": "Habeas Corpus",
-                "2": "Mandamus",
-                "3": "Prohibition",
-                "4": "Quo-Warranto"
-              },
-              "ans": "3",
-              "explanation": "The writ of Prohibition is issued by a higher court to a lower court or tribunal to prevent them from exceeding their jurisdiction or usurping a jurisdiction they do not possess."
-            },
-            {
-              "id": "fr_m_03",
-              "question": "Under which Article can the Parliament restrict Fundamental Rights of members of the Armed Forces?",
-              "options": {
-                "1": "Article 31",
-                "2": "Article 33",
-                "3": "Article 34",
-                "4": "Article 35"
+                "1": "6 ஆண்டுகள் அல்லது 62 வயது",
+                "2": "6 ஆண்டுகள் அல்லது 65 வயது",
+                "3": "5 ஆண்டுகள் அல்லது 60 வயது",
+                "4": "5 ஆண்டுகள் அல்லது 65 வயது"
               },
               "ans": "2",
-              "explanation": "Article 33 empowers Parliament to restrict or abrogate the application of Fundamental Rights to members of the armed forces, paramilitary forces, police, and intelligence agencies."
-            },
-            {
-              "id": "fr_m_04",
-              "question": "Which of the following Fundamental Rights cannot be suspended even during a National Emergency under Article 359?",
-              "options": {
-                "1": "Article 14 and Article 19",
-                "2": "Article 19 and Article 21",
-                "3": "Article 20 and Article 21",
-                "4": "Article 21 and Article 22"
-              },
-              "ans": "3",
-              "explanation": "By the 44th Amendment Act, the right to protection in respect of conviction for offenses (Article 20) and the right to life and personal liberty (Article 21) cannot be suspended even during a National Emergency."
-            },
-            {
-              "id": "fr_m_05",
-              "question": "Which Article guarantees freedom of speech and expression?",
-              "options": {
-                "1": "Article 18",
-                "2": "Article 19",
-                "3": "Article 20",
-                "4": "Article 21"
-              },
-              "ans": "2",
-              "explanation": "Article 19(1)(a) guarantees to all citizens the freedom of speech and expression, subject to reasonable restrictions under Article 19(2)."
-            }
-          ]
-        },
-        "hard": {
-          "questions": [
-            {
-              "id": "fr_h_01",
-              "question": "Consider the following statements regarding the Right to Equality under Article 14:\n1. It guarantees equality before the law and equal protection of the laws.\n2. 'Equality before the law' is a concept of American origin, while 'equal protection of the laws' is of British origin.\nWhich of the statements given above is/are correct?",
-              "options": {
-                "1": "1 only",
-                "2": "2 only",
-                "3": "Both 1 and 2",
-                "4": "Neither 1 nor 2"
-              },
-              "ans": "1",
-              "explanation": "Statement 1 is correct. However, statement 2 is incorrect because 'equality before the law' is of British origin (negative concept), whereas 'equal protection of the laws' is borrowed from the American Constitution (positive concept)."
-            },
-            {
-              "id": "fr_h_02",
-              "question": "The 'Doctrine of Eclipse' is primarily associated with which of the following?",
-              "options": {
-                "1": "Article 13",
-                "2": "Article 21",
-                "3": "Article 32",
-                "4": "Article 368"
-              },
-              "ans": "1",
-              "explanation": "The Doctrine of Eclipse, operating under Article 13, states that any pre-constitutional law inconsistent with Fundamental Rights is not null and void ab initio, but becomes eclipsed and dormant until the restriction is removed."
-            },
-            {
-              "id": "fr_h_03",
-              "question": "Which case ruled that the Parliament cannot amend Fundamental Rights to take them away, propounding the 'Basic Structure' doctrine?",
-              "options": {
-                "1": "Golaknath v. State of Punjab",
-                "2": "Kesavananda Bharati v. State of Kerala",
-                "3": "Minerva Mills v. Union of India",
-                "4": "Indira Nehru Gandhi v. Raj Narain"
-              },
-              "ans": "2",
-              "explanation": "Kesavananda Bharati (1973) held that Parliament can amend any part of the Constitution, including Fundamental Rights, but cannot alter its basic structure."
-            },
-            {
-              "id": "fr_h_04",
-              "question": "Which of the following writs literally means 'We Command' and is issued to a public official to perform a mandatory duty?",
-              "options": {
-                "1": "Habeas Corpus",
-                "2": "Mandamus",
-                "3": "Certiorari",
-                "4": "Quo-Warranto"
-              },
-              "ans": "2",
-              "explanation": "'Mandamus' translates to 'We Command'. It is issued by a court to a public official, corporation, or lower court to compel performance of a public duty."
-            },
-            {
-              "id": "fr_h_05",
-              "question": "Article 21A, which provides for Right to Education, was added to the Constitution by which Amendment Act?",
-              "options": {
-                "1": "42nd Amendment Act, 1976",
-                "2": "44th Amendment Act, 1978",
-                "3": "86th Amendment Act, 2002",
-                "4": "91st Amendment Act, 2003"
-              },
-              "ans": "3",
-              "explanation": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A, making free and compulsory education for children aged 6 to 14 a Fundamental Right."
-            }
-          ]
-        },
-        "easy": {
-          "questions": [
-            {
-              "id": "fr_e_01",
-              "question": "In which part of the Indian Constitution are Fundamental Rights enshrined?",
-              "options": {
-                "1": "Part I",
-                "2": "Part II",
-                "3": "Part III",
-                "4": "Part IV"
-              },
-              "ans": "3",
-              "explanation": "Fundamental Rights are enshrined in Part III of the Constitution from Articles 12 to 35."
-            },
-            {
-              "id": "fr_e_02",
-              "question": "Which of the following articles is called the 'heart and soul' of the Constitution by Dr. B. R. Ambedkar?",
-              "options": {
-                "1": "Article 14",
-                "2": "Article 19",
-                "3": "Article 32",
-                "4": "Article 21"
-              },
-              "ans": "3",
-              "explanation": "Dr. B. R. Ambedkar described Article 32 (Right to Constitutional Remedies) as the very heart and soul of the Constitution."
-            },
-            {
-              "id": "fr_e_03",
-              "question": "From which country's constitution were the Fundamental Rights borrowed?",
-              "options": {
-                "1": "British Constitution",
-                "2": "USA Constitution",
-                "3": "Irish Constitution",
-                "4": "Canadian Constitution"
-              },
-              "ans": "2",
-              "explanation": "The Fundamental Rights in the Indian Constitution are inspired by the Bill of Rights of the United States Constitution."
-            },
-            {
-              "id": "fr_e_04",
-              "question": "Which Fundamental Right guarantees protection against arrest and detention in certain cases?",
-              "options": {
-                "1": "Article 19",
-                "2": "Article 20",
-                "3": "Article 22",
-                "4": "Article 25"
-              },
-              "ans": "3",
-              "explanation": "Article 22 provides protection against arrest and detention in certain cases under both punitive and preventive detention laws."
-            },
-            {
-              "id": "fr_e_05",
-              "question": "Are Fundamental Rights enforceable against private individuals?",
-              "options": {
-                "1": "Yes, against all individuals unconditionally",
-                "2": "No, they are generally enforceable against the State",
-                "3": "Only during financial emergencies",
-                "4": "Only through civil courts"
-              },
-              "ans": "2",
-              "explanation": "Fundamental Rights are primarily protected against actions by the 'State' (as defined under Article 12), though some rights like Article 17 and Article 23 protect against private actions."
-            }
-          ]
-        }
-      },
-      "dpsp": {
-        "id": "dp9ikbfo",
-        "moderate": {
-          "questions": [
-            {
-              "id": "dp_m_01",
-              "question": "Which Article of the Constitution directs the State to organize Village Panchayats?",
-              "options": {
-                "1": "Article 39",
-                "2": "Article 40",
-                "3": "Article 44",
-                "4": "Article 48"
-              },
-              "ans": "2",
-              "explanation": "Article 40 (a Gandhian principle) directs the State to organize village panchayats and endow them with necessary powers."
-            },
-            {
-              "id": "dp_m_02",
-              "question": "Which constitutional amendment added the Directive Principle relating to the promotion of cooperative societies?",
-              "options": {
-                "1": "42nd Amendment Act",
-                "2": "44th Amendment Act",
-                "3": "97th Amendment Act",
-                "4": "86th Amendment Act"
-              },
-              "ans": "3",
-              "explanation": "The 97th Constitutional Amendment Act of 2011 added Article 43B, promoting voluntary formation, autonomous functioning, and democratic control of cooperative societies."
-            },
-            {
-              "id": "dp_m_03",
-              "question": "Which DPSP directs the State to secure a Uniform Civil Code (UCC) for the citizens throughout the territory of India?",
-              "options": {
-                "1": "Article 44",
-                "2": "Article 45",
-                "3": "Article 48",
-                "4": "Article 50"
-              },
-              "ans": "1",
-              "explanation": "Article 44 of the Directive Principles of State Policy directs the State to endeavor to secure for citizens a Uniform Civil Code throughout India."
-            },
-            {
-              "id": "dp_m_04",
-              "question": "What is the primary legal status of the Directive Principles of State Policy?",
-              "options": {
-                "1": "Justiciable in High Courts only",
-                "2": "Justiciable in the Supreme Court",
-                "3": "Non-justiciable",
-                "4": "Enforceable by executive orders automatically"
-              },
-              "ans": "3",
-              "explanation": "Under Article 37, DPSP are non-justiciable, meaning they cannot be enforced in any court, but they are fundamental in the governance of the country."
-            },
-            {
-              "id": "dp_m_05",
-              "question": "Which Article deals with the separation of the judiciary from the executive in the public services of the State?",
-              "options": {
-                "1": "Article 48",
-                "2": "Article 49",
-                "3": "Article 50",
-                "4": "Article 51"
-              },
-              "ans": "3",
-              "explanation": "Article 50 directs the State to take steps to separate the judiciary from the executive in the public services of the State."
-            }
-          ]
-        },
-        "hard": {
-          "questions": [
-            {
-              "id": "dp_h_01",
-              "question": "Consider the following Directive Principles:\n1. To secure for all citizens a Uniform Civil Code.\n2. To separate the judiciary from the executive.\n3. To promote international peace and security.\nWhich of the above are classified as Liberal-Intellectual principles?",
-              "options": {
-                "1": "1 and 2 only",
-                "2": "2 and 3 only",
-                "3": "1 and 3 only",
-                "4": "1, 2 and 3"
-              },
-              "ans": "4",
-              "explanation": "All three (Articles 44, 50, and 51) belong to the category of Liberal-Intellectual principles under DPSP."
-            },
-            {
-              "id": "dp_h_02",
-              "question": "Which case established the principle of harmony and balance between Fundamental Rights and Directive Principles?",
-              "options": {
-                "1": "Champakam Dorairajan case",
-                "2": "Minerva Mills case (1980)",
-                "3": "Golaknath case",
-                "4": "Kesavananda Bharati case"
-              },
-              "ans": "2",
-              "explanation": "In Minerva Mills v. Union of India (1980), the Supreme Court held that the Indian Constitution is founded on the bedrock of the balance between Fundamental Rights and Directive Principles."
-            },
-            {
-              "id": "dp_h_03",
-              "question": "Which Constitutional Amendment added free legal aid and participation of workers in the management of industries as Directive Principles?",
-              "options": {
-                "1": "42nd Amendment Act, 1976",
-                "2": "44th Amendment Act, 1978",
-                "3": "86th Amendment Act, 2002",
-                "4": "73rd Amendment Act, 1992"
-              },
-              "ans": "1",
-              "explanation": "The 42nd Amendment Act added new directives: Article 39A (equal justice and free legal aid) and Article 43A (participation of workers in management)."
-            },
-            {
-              "id": "dp_h_04",
-              "question": "Which of the following Articles directs the State to protect and improve the environment and to safeguard forests and wildlife?",
-              "options": {
-                "1": "Article 47",
-                "2": "Article 48A",
-                "3": "Article 49",
-                "4": "Article 50"
-              },
-              "ans": "2",
-              "explanation": "Article 48A was added by the 42nd Amendment Act, 1976, directing the State to protect and improve the environment and safeguard forests and wildlife."
-            },
-            {
-              "id": "dp_h_05",
-              "question": "What happens if a law enacted to implement a Directive Principle violates Article 14 or Article 19, as per Article 31C (inserted by the 25th Amendment)?",
-              "options": {
-                "1": "The law is automatically void.",
-                "2": "The law cannot be declared unconstitutional merely on the ground of infringing Article 14 or 19.",
-                "3": "It requires prior presidential assent.",
-                "4": "It requires approval from two-thirds of state assemblies."
-              },
-              "ans": "2",
-              "explanation": "Article 31C provides that a law made to implement DPSPs under Article 39(b) and (c) cannot be challenged on the ground that it violates Article 14 or Article 19."
-            }
-          ]
-        },
-        "easy": {
-          "questions": [
-            {
-              "id": "dp_e_01",
-              "question": "In which part of the Indian Constitution are the Directive Principles of State Policy included?",
-              "options": {
-                "1": "Part III",
-                "2": "Part IV",
-                "3": "Part IV-A",
-                "4": "Part V"
-              },
-              "ans": "2",
-              "explanation": "DPSP are outlined in Part IV of the Constitution, covering Articles 36 to 51."
-            },
-            {
-              "id": "dp_e_02",
-              "question": "From which country's constitution were the Directive Principles borrowed?",
-              "options": {
-                "1": "Irish Constitution",
-                "2": "Australian Constitution",
-                "3": "Weimar Constitution of Germany",
-                "4": "Soviet Constitution"
-              },
-              "ans": "1",
-              "explanation": "The DPSP were borrowed from the Irish Constitution of 1937, which had copied it from the Spanish Constitution."
-            },
-            {
-              "id": "dp_e_03",
-              "question": "Who described the Directive Principles as 'novel features' of the Indian Constitution?",
-              "options": {
-                "1": "Jawaharlal Nehru",
-                "2": "Dr. B. R. Ambedkar",
-                "3": "Granville Austin",
-                "4": "K. C. Wheare"
-              },
-              "ans": "2",
-              "explanation": "Dr. B. R. Ambedkar described the Directive Principles of State Policy as a 'novel feature' of the Indian Constitution."
-            },
-            {
-              "id": "dp_e_04",
-              "question": "Which Article of DPSP deals with the promotion of international peace and security?",
-              "options": {
-                "1": "Article 48",
-                "2": "Article 49",
-                "3": "Article 50",
-                "4": "Article 51"
-              },
-              "ans": "4",
-              "explanation": "Article 51 contains provisions for the promotion of international peace and security, marking the conclusion of Part IV."
-            },
-            {
-              "id": "dp_e_05",
-              "question": "Which DPSP relates to the organization of agriculture and animal husbandry on modern and scientific lines?",
-              "options": {
-                "1": "Article 45",
-                "2": "Article 48",
-                "3": "Article 47",
-                "4": "Article 46"
-              },
-              "ans": "2",
-              "explanation": "Article 48 directs the State to organize agriculture and animal husbandry on modern and scientific lines and prohibit the slaughter of cows and calves."
+              "explanation": "UPSC உறுப்பினர்கள் ஆறு ஆண்டுகள் பதவி வகிக்கலாம் அல்லது 65 வயதை அடையும் வரை பதவி வகிக்கலாம்; இதில் எது முதலில் வருகிறதோ அது பொருந்தும்."
             }
           ]
         }
