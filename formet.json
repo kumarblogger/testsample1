@@ -3,68 +3,89 @@
     "id": "pol_ev_01",
     "subject": "POLITY",
     "topics": {
-      "evolution_and_historical_background": {
-        "id": "pol_hist_01"
+      "pol_hist_01": {
+        "tamil-topic": "பரிணாமம் மற்றும் வரலாற்றுப் பின்னணி",
+        "english-topic": "evolution_and_historical_background"
       },
-      "making_of_the_constitution": {
-        "id": "pol_make_01"
+      "pol_make_01": {
+        "tamil-topic": "அரசியலமைப்பு உருவாக்கம்",
+        "english-topic": "making_of_the_constitution"
       },
-      "preamble_to_the_constitution": {
-        "id": "pol_pre_01"
+      "pol_pre_01": {
+        "tamil-topic": "அரசியலமைப்பின் முகவுரை",
+        "english-topic": "preamble_to_the_constitution"
       },
-      "salient_features_of_the_constitution": {
-        "id": "pol_sal_01"
+      "pol_sal_01": {
+        "tamil-topic": "அரசியலமைப்பின் சிறப்பியல்புகள்",
+        "english-topic": "salient_features_of_the_constitution"
       },
-      "citizenship": {
-        "id": "pol_cit_01"
+      "pol_cit_01": {
+        "tamil-topic": "குடியுரிமை",
+        "english-topic": "citizenship"
       },
-      "schedules_and_parts_of_the_constitution": {
-        "id": "pol_sch_parts_01"
+      "pol_sch_parts_01": {
+        "tamil-topic": "அரசியலமைப்பின் அட்டவணைகள் மற்றும் பகுதிகள்",
+        "english-topic": "schedules_and_parts_of_the_constitution"
       },
-      "fundamental_rights": {
-        "id": "pol_fr_01"
+      "pol_fr_01": {
+        "tamil-topic": "அடிப்படை உரிமைகள்",
+        "english-topic": "fundamental_rights"
       },
-      "directive_principles_of_state_policy": {
-        "id": "pol_dpsp_01"
+      "pol_dpsp_01": {
+        "tamil-topic": "அரசு நெறிமுறையுறுத்தும் கோட்பாடுகள்",
+        "english-topic": "directive_principles_of_state_policy"
       },
-      "fundamental_duties": {
-        "id": "pol_fd_200"
+      "pol_fd_200": {
+        "tamil-topic": "அடிப்படைக் கடமைகள்",
+        "english-topic": "fundamental_duties"
       },
-      "union_executive": {
-        "id": "pol_uni_exec_01"
+      "pol_uni_exec_01": {
+        "tamil-topic": "மத்திய நிர்வாகம்",
+        "english-topic": "union_executive"
       },
-      "union_legislature_parliament": {
-        "id": "pol_par_01"
+      "pol_par_01": {
+        "tamil-topic": "மத்திய சட்டமன்றம் (நாடாளுமன்றம்)",
+        "english-topic": "union_legislature_parliament"
       },
-      "state_executive": {
-        "id": "pol_state_exec_01"
+      "pol_state_exec_01": {
+        "tamil-topic": "மாநில நிர்வாகம்",
+        "english-topic": "state_executive"
       },
-      "state_legislature": {
-        "id": "pol_state_leg_01"
+      "pol_state_leg_01": {
+        "tamil-topic": "மாநில சட்டமன்றம்",
+        "english-topic": "state_legislature"
       },
-      "union_territories": {
-        "id": "pol_ut_01"
+      "pol_ut_01": {
+        "tamil-topic": "யூனியன் பிரதேசங்கள்",
+        "english-topic": "union_territories"
       },
-      "structure_of_courts_supreme_court": {
-        "id": "pol_sc_01"
+      "pol_sc_01": {
+        "tamil-topic": "நீதிமன்றங்களின் கட்டமைப்பு மற்றும் உச்ச நீதிமன்றம்",
+        "english-topic": "structure_of_courts_supreme_court"
       },
-      "high_courts_and_subordinate_courts": {
-        "id": "pol_judiciary_02"
+      "pol_judiciary_02": {
+        "tamil-topic": "உயர் நீதிமன்றங்கள் மற்றும் கீழமை நீதிமன்றங்கள்",
+        "english-topic": "high_courts_and_subordinate_courts"
       },
-      "federalism_and_center_state_relations": {
-        "id": "pol_csr_01"
+      "pol_csr_01": {
+        "tamil-topic": "கூட்டாட்சி மற்றும் மத்திய-மாநில உறவுகள்",
+        "english-topic": "federalism_and_center_state_relations"
       },
-      "local_government_and_panchayati_raj": {
-        "id": "pol_loc_gov_02"
+      "pol_loc_gov_02": {
+        "tamil-topic": "உள்ளாட்சி அரசாங்கம் மற்றும் பஞ்சாயத்து ராஜ்",
+        "english-topic": "local_government_and_panchayati_raj"
       },
-      "elections_and_public_services": {
-        "id": "pol_elec_pub_01"
+      "pol_elec_pub_01": {
+        "tamil-topic": "தேர்தல்கள் மற்றும் பொதுப் பணிகள்",
+        "english-topic": "elections_and_public_services"
       },
-      "civil_services_cvc_cbi": {
-        "id": "pol_cs_01"
+      "pol_cs_01": {
+        "tamil-topic": "குடிமைப் பணிகள், மத்திய ஊழல் கண்காணிப்பு ஆணையம் (CVC) மற்றும் சிபிஐ (CBI)",
+        "english-topic": "civil_services_cvc_cbi"
       },
-      "anticorruption_and_constitutional_bodies": {
-        "id": "pol_accb_01"
+      "pol_accb_01": {
+        "tamil-topic": "ஊழல் தடுப்பு மற்றும் அரசியலமைப்பு அமைப்புகள்",
+        "english-topic": "anticorruption_and_constitutional_bodies"
       }
     }
   },
@@ -72,107 +93,141 @@
     "id": "eco_tnpsc_01",
     "subject": "Economics",
     "topics": {
-      "nature_of_indian_economy": {
-        "id": "eco_nat_01"
+      "eco_nat_01": {
+        "tamil-topic": "இந்தியப் பொருளாதாரத்தின் இயல்பு",
+        "english-topic": "nature_of_indian_economy"
       },
-      "economic_systems_and_concepts": {
-        "id": "eco_sys_02"
+      "eco_sys_02": {
+        "tamil-topic": "பொருளாதார அமைப்புகள் மற்றும் கோட்பாடுகள்",
+        "english-topic": "economic_systems_and_concepts"
       },
-      "basic_economic_principles": {
-        "id": "eco_prin_01"
+      "eco_prin_01": {
+        "tamil-topic": "அடிப்படைப் பொருளாதாரக் கொள்கைகள்",
+        "english-topic": "basic_economic_principles"
       },
-      "demand_supply_equilibrium": {
-        "id": "eco_ds_02"
+      "eco_ds_02": {
+        "tamil-topic": "தேவை, அளிப்பு மற்றும் சமநிலை",
+        "english-topic": "demand_supply_equilibrium"
       },
-      "national_income_concepts": {
-        "id": "eco_ni_01"
+      "eco_ni_01": {
+        "tamil-topic": "தேசிய வருமானக் கோட்பாடுகள்",
+        "english-topic": "national_income_concepts"
       },
-      "measurement_of_ni": {
-        "id": "eco_ni_02"
+      "eco_ni_02": {
+        "tamil-topic": "தேசிய வருமானத்தைக் கணக்கிடுதல்",
+        "english-topic": "measurement_of_ni"
       },
-      "capital_formation": {
-        "id": "eco_ni_03"
+      "eco_ni_03": {
+        "tamil-topic": "மூலதன உருவாக்கம்",
+        "english-topic": "capital_formation"
       },
-      "sectoral_contribution": {
-        "id": "eco_ni_04"
+      "eco_ni_04": {
+        "tamil-topic": "துறைவாரியான பங்களிப்பு",
+        "english-topic": "sectoral_contribution"
       },
-      "economic_dev_and_growth": {
-        "id": "eco_dev_01"
+      "eco_dev_01": {
+        "tamil-topic": "பொருளாதார மேம்பாடு மற்றும் வளர்ச்சி",
+        "english-topic": "economic_dev_and_growth"
       },
-      "five_year_plans": {
-        "id": "eco_fyp_02"
+      "eco_fyp_02": {
+        "tamil-topic": "ஐந்தாண்டுத் திட்டங்கள்",
+        "english-topic": "five_year_plans"
       },
-      "planning_and_niti_aayog": {
-        "id": "eco_niti_01"
+      "eco_niti_01": {
+        "tamil-topic": "திட்டமிடல் மற்றும் நிதி ஆயோக்",
+        "english-topic": "planning_and_niti_aayog"
       },
-      "economic_reforms_1991": {
-        "id": "eco_lpg_02"
+      "eco_lpg_02": {
+        "tamil-topic": "1991 பொருளாதாரச் சீர்திருத்தங்கள்",
+        "english-topic": "economic_reforms_1991"
       },
-      "inflation": {
-        "id": "eco_inf_01"
+      "eco_inf_01": {
+        "tamil-topic": "பணவீக்கம்",
+        "english-topic": "inflation"
       },
-      "money_and_banking": {
-        "id": "eco_mon_02"
+      "eco_mon_02": {
+        "tamil-topic": "பணம் மற்றும் வங்கியியல்",
+        "english-topic": "money_and_banking"
       },
-      "commercial_banks": {
-        "id": "eco_cb_01"
+      "eco_cb_01": {
+        "tamil-topic": "வணிக வங்கிகள்",
+        "english-topic": "commercial_banks"
       },
-      "rbi_and_monetary_policy": {
-        "id": "eco_rbi_02"
+      "eco_rbi_02": {
+        "tamil-topic": "இந்திய ரிசர்வ் வங்கி மற்றும் பணவியல் கொள்கை",
+        "english-topic": "rbi_and_monetary_policy"
       },
-      "fiscal_policy": {
-        "id": "eco_pub_01"
+      "eco_pub_01": {
+        "tamil-topic": "நிதிக் கொள்கை",
+        "english-topic": "fiscal_policy"
       },
-      "government_budget_and_deficits": {
-        "id": "eco_pub_02"
+      "eco_pub_02": {
+        "tamil-topic": "அரசு வரவு-செலவுத் திட்டம் மற்றும் பற்றாக்குறைகள்",
+        "english-topic": "government_budget_and_deficits"
       },
-      "taxation_and_gst": {
-        "id": "eco_tax_01"
+      "eco_tax_01": {
+        "tamil-topic": "வரிவிதிப்பு மற்றும் ஜிஎஸ்டி (GST)",
+        "english-topic": "taxation_and_gst"
       },
-      "finance_commission_and_resource_sharing": {
-        "id": "eco_fc_02"
+      "eco_fc_02": {
+        "tamil-topic": "நிதி ஆணையம் மற்றும் வளப் பகிர்வு",
+        "english-topic": "finance_commission_and_resource_sharing"
       },
-      "nature_and_importance_of_agriculture": {
-        "id": "eco_agr_01"
+      "eco_agr_01": {
+        "tamil-topic": "வேளாண்மையின் இயல்பு மற்றும் முக்கியத்துவம்",
+        "english-topic": "nature_and_importance_of_agriculture"
       },
-      "land_reforms_and_cropping_patterns": {
-        "id": "eco_agr_02"
+      "eco_agr_02": {
+        "tamil-topic": "நிலச் சீர்திருத்தங்கள் மற்றும் பயிரிடும் முறைகள்",
+        "english-topic": "land_reforms_and_cropping_patterns"
       },
-      "agricultural_pricing_msp_pds": {
-        "id": "eco_agr_03"
+      "eco_agr_03": {
+        "tamil-topic": "வேளாண் விலை நிர்ணயம், குறைந்தபட்ச ஆதரவு விலை (MSP) மற்றும் பொது விநியோக முறை (PDS)",
+        "english-topic": "agricultural_pricing_msp_pds"
       },
-      "agri_finance_subsidies_marketing": {
-        "id": "eco_agr_04"
+      "eco_agr_04": {
+        "tamil-topic": "வேளாண் நிதி, மானியங்கள் மற்றும் சந்தைப்படுத்துதல்",
+        "english-topic": "agri_finance_subsidies_marketing"
       },
-      "green_revolution_tech_organic": {
-        "id": "eco_agr_05"
+      "eco_agr_05": {
+        "tamil-topic": "பசுமைப் புரட்சி, தொழில்நுட்பம் மற்றும் இயற்கை விவசாயம்",
+        "english-topic": "green_revolution_tech_organic"
       },
-      "evolution_of_industries": {
-        "id": "eco_ind_01"
+      "eco_ind_01": {
+        "tamil-topic": "தொழில்துறையின் பரிணாம வளர்ச்சி",
+        "english-topic": "evolution_of_industries"
       },
-      "industrial_policies_and_reforms": {
-        "id": "eco_ind_02"
+      "eco_ind_02": {
+        "tamil-topic": "தொழிற்கொள்கைகள் மற்றும் சீர்திருத்தங்கள்",
+        "english-topic": "industrial_policies_and_reforms"
       },
-      "public_and_private_sectors": {
-        "id": "eco_ind_03"
+      "eco_ind_03": {
+        "tamil-topic": "பொது மற்றும் தனியார் துறைகள்",
+        "english-topic": "public_and_private_sectors"
       },
-      "msme_sector": {
-        "id": "eco_ind_04"
+      "eco_ind_04": {
+        "tamil-topic": "குறு, சிறு மற்றும் நடுத்தரத் தொழில்கள் (MSME) துறை",
+        "english-topic": "msme_sector"
       },
-      "infrastructure_labor_corridors": {
-        "id": "eco_ind_05"
+      "eco_ind_05": {
+        "tamil-topic": "உள்கட்டமைப்பு, தொழிலாளர் மற்றும் தொழில் வழித்தடங்கள்",
+        "english-topic": "infrastructure_labor_corridors"
       },
-      "demographic_indicators": {
-        "id": "eco_soc_01"
+      "eco_soc_01": {
+        "tamil-topic": "மக்கள்தொகை குறியீடுகள்",
+        "english-topic": "demographic_indicators"
       },
-      "poverty_and_schemes": {
-        "id": "eco_soc_02"
+      "eco_soc_02": {
+        "tamil-topic": "வறுமை மற்றும் ஒழிப்புத் திட்டங்கள்",
+        "english-topic": "poverty_and_schemes"
       },
-      "unemployment_and_employment": {
-        "id": "eco_soc_03"
+      "eco_soc_03": {
+        "tamil-topic": "வேலையின்மை மற்றும் வேலைவாய்ப்பு",
+        "english-topic": "unemployment_and_employment"
       },
-      "hrd_education_health_welfare": {
-        "id": "eco_soc_04"
+      "eco_soc_04": {
+        "tamil-topic": "மனிதவள மேம்பாடு, கல்வி, சுகாதாரம் மற்றும் நலவாழ்வு",
+        "english-topic": "hrd_education_health_welfare"
       }
     }
   },
@@ -180,23 +235,43 @@
     "id": "eco_tnpsc_13",
     "subject": "Tamil Nadu Economy",
     "topics": {
-      "tn_economy_growth_gsdp": {
-        "id": "eco_tneco_01"
+      "eco_tneco_01": {
+        "tamil-topic": "தமிழ்நாடு பொருளாதார வளர்ச்சி மற்றும் மாநில மொத்த உள்நாட்டு உற்பத்தி (GSDP)",
+        "english-topic": "tn_economy_growth_gsdp"
       },
-      "tn_agriculture": {
-        "id": "eco_tn_02"
+      "eco_tn_02": {
+        "tamil-topic": "தமிழ்நாடு வேளாண்மை",
+        "english-topic": "tn_agriculture"
       },
-      "tn_industrial_profile": {
-        "id": "eco_tn_ind_01"
+      "eco_tn_ind_01": {
+        "tamil-topic": "தமிழ்நாடு தொழில்துறை விவரக்குறிப்பு",
+        "english-topic": "tn_industrial_profile"
       },
-      "tn_infrastructure": {
-        "id": "eco_tn_infra_02"
+      "eco_tn_infra_02": {
+        "tamil-topic": "தமிழ்நாடு உள்கட்டமைப்பு",
+        "english-topic": "tn_infrastructure"
       },
-      "tn_social_welfare_schemes": {
-        "id": "eco_tn_wel_03"
+      "eco_tn_wel_03": {
+        "tamil-topic": "தமிழ்நாடு சமூக நலத் திட்டங்கள்",
+        "english-topic": "tn_social_welfare_schemes"
       },
-      "tn_social_welfare_schemes_2025_26": {
-        "id": "eco_tn_sch_01"
+      "eco_tn_sch_01": {
+        "tamil-topic": "தமிழ்நாடு சமூக நலத் திட்டங்கள் 2025-26",
+        "english-topic": "tn_social_welfare_schemes_2025_26"
+      }
+    }
+  },
+  {
+    "id": "ccse2_2at_2026",
+    "subject": "TNPSC_CCSE2_2026",
+    "topics": {
+      "gs_apt_01": {
+        "tamil-topic": "பகுதி அ மற்றும் ஆ - பொது அறிவு மற்றும் திறனறிவு",
+        "english-topic": "part_a_and_b_general_studies_aptitude"
+      },
+      "tam_02": {
+        "tamil-topic": "பகுதி இ - பொதுத் தமிழ்",
+        "english-topic": "part_c_general_tamil"
       }
     }
   },
@@ -204,29 +279,37 @@
     "id": "tn_soc_jus_1001",
     "subject": "Social_Justice_and_Socio_Economic_Development",
     "topics": {
-      "evolution_of_reservation_policy": {
-        "id": "sjs_res_01"
+      "sjs_res_01": {
+        "tamil-topic": "இடஒதுக்கீட்டுக் கொள்கையின் பரிணாமம்",
+        "english-topic": "evolution_of_reservation_policy"
       },
-      "social_justice_framework": {
-        "id": "sjs_frm_02"
+      "sjs_frm_02": {
+        "tamil-topic": "சமூக நீதி கட்டமைப்பு",
+        "english-topic": "social_justice_framework"
       },
-      "access_to_social_resources": {
-        "id": "sjs_res_acc_03"
+      "sjs_res_acc_03": {
+        "tamil-topic": "சமூக வளங்களுக்கான அணுகல்",
+        "english-topic": "access_to_social_resources"
       },
-      "milestones_in_social_reform": {
-        "id": "sjs_mil_04"
+      "sjs_mil_04": {
+        "tamil-topic": "சமூக சீர்திருத்தத்தின் மைல்கற்கள்",
+        "english-topic": "milestones_in_social_reform"
       },
-      "education_infrastructure_and_growth": {
-        "id": "ehs_edu_infra_01"
+      "ehs_edu_infra_01": {
+        "tamil-topic": "கல்வி உள்கட்டமைப்பு மற்றும் வளர்ச்சி",
+        "english-topic": "education_infrastructure_and_growth"
       },
-      "educational_initiatives_and_welfare": {
-        "id": "ehs_edu_init_02"
+      "ehs_edu_init_02": {
+        "tamil-topic": "கல்வி முயற்சிகள் மற்றும் நலவாழ்வு",
+        "english-topic": "educational_initiatives_and_welfare"
       },
-      "public_health_infrastructure": {
-        "id": "ehs_health_infra_03"
+      "ehs_health_infra_03": {
+        "tamil-topic": "பொது சுகாதார உள்கட்டமைப்பு",
+        "english-topic": "public_health_infrastructure"
       },
-      "health_indices_and_nutrition_schemes": {
-        "id": "ehs_indices_nutri_04"
+      "ehs_indices_nutri_04": {
+        "tamil-topic": "சுகாதாரக் குறியீடுகள் மற்றும் ஊட்டச்சத்துத் திட்டங்கள்",
+        "english-topic": "health_indices_and_nutrition_schemes"
       }
     }
   }
