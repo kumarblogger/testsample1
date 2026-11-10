@@ -1,0 +1,233 @@
+[
+  {
+    "id": "pol_ev_01",
+    "subject": "POLITY",
+    "topics": {
+      "evolution_and_historical_background": {
+        "id": "pol_hist_01"
+      },
+      "making_of_the_constitution": {
+        "id": "pol_make_01"
+      },
+      "preamble_to_the_constitution": {
+        "id": "pol_pre_01"
+      },
+      "salient_features_of_the_constitution": {
+        "id": "pol_sal_01"
+      },
+      "citizenship": {
+        "id": "pol_cit_01"
+      },
+      "schedules_and_parts_of_the_constitution": {
+        "id": "pol_sch_parts_01"
+      },
+      "fundamental_rights": {
+        "id": "pol_fr_01"
+      },
+      "directive_principles_of_state_policy": {
+        "id": "pol_dpsp_01"
+      },
+      "fundamental_duties": {
+        "id": "pol_fd_200"
+      },
+      "union_executive": {
+        "id": "pol_uni_exec_01"
+      },
+      "union_legislature_parliament": {
+        "id": "pol_par_01"
+      },
+      "state_executive": {
+        "id": "pol_state_exec_01"
+      },
+      "state_legislature": {
+        "id": "pol_state_leg_01"
+      },
+      "union_territories": {
+        "id": "pol_ut_01"
+      },
+      "structure_of_courts_supreme_court": {
+        "id": "pol_sc_01"
+      },
+      "high_courts_and_subordinate_courts": {
+        "id": "pol_judiciary_02"
+      },
+      "federalism_and_center_state_relations": {
+        "id": "pol_csr_01"
+      },
+      "local_government_and_panchayati_raj": {
+        "id": "pol_loc_gov_02"
+      },
+      "elections_and_public_services": {
+        "id": "pol_elec_pub_01"
+      },
+      "civil_services_cvc_cbi": {
+        "id": "pol_cs_01"
+      },
+      "anticorruption_and_constitutional_bodies": {
+        "id": "pol_accb_01"
+      }
+    }
+  },
+  {
+    "id": "eco_tnpsc_01",
+    "subject": "Economics",
+    "topics": {
+      "nature_of_indian_economy": {
+        "id": "eco_nat_01"
+      },
+      "economic_systems_and_concepts": {
+        "id": "eco_sys_02"
+      },
+      "basic_economic_principles": {
+        "id": "eco_prin_01"
+      },
+      "demand_supply_equilibrium": {
+        "id": "eco_ds_02"
+      },
+      "national_income_concepts": {
+        "id": "eco_ni_01"
+      },
+      "measurement_of_ni": {
+        "id": "eco_ni_02"
+      },
+      "capital_formation": {
+        "id": "eco_ni_03"
+      },
+      "sectoral_contribution": {
+        "id": "eco_ni_04"
+      },
+      "economic_dev_and_growth": {
+        "id": "eco_dev_01"
+      },
+      "five_year_plans": {
+        "id": "eco_fyp_02"
+      },
+      "planning_and_niti_aayog": {
+        "id": "eco_niti_01"
+      },
+      "economic_reforms_1991": {
+        "id": "eco_lpg_02"
+      },
+      "inflation": {
+        "id": "eco_inf_01"
+      },
+      "money_and_banking": {
+        "id": "eco_mon_02"
+      },
+      "commercial_banks": {
+        "id": "eco_cb_01"
+      },
+      "rbi_and_monetary_policy": {
+        "id": "eco_rbi_02"
+      },
+      "fiscal_policy": {
+        "id": "eco_pub_01"
+      },
+      "government_budget_and_deficits": {
+        "id": "eco_pub_02"
+      },
+      "taxation_and_gst": {
+        "id": "eco_tax_01"
+      },
+      "finance_commission_and_resource_sharing": {
+        "id": "eco_fc_02"
+      },
+      "nature_and_importance_of_agriculture": {
+        "id": "eco_agr_01"
+      },
+      "land_reforms_and_cropping_patterns": {
+        "id": "eco_agr_02"
+      },
+      "agricultural_pricing_msp_pds": {
+        "id": "eco_agr_03"
+      },
+      "agri_finance_subsidies_marketing": {
+        "id": "eco_agr_04"
+      },
+      "green_revolution_tech_organic": {
+        "id": "eco_agr_05"
+      },
+      "evolution_of_industries": {
+        "id": "eco_ind_01"
+      },
+      "industrial_policies_and_reforms": {
+        "id": "eco_ind_02"
+      },
+      "public_and_private_sectors": {
+        "id": "eco_ind_03"
+      },
+      "msme_sector": {
+        "id": "eco_ind_04"
+      },
+      "infrastructure_labor_corridors": {
+        "id": "eco_ind_05"
+      },
+      "demographic_indicators": {
+        "id": "eco_soc_01"
+      },
+      "poverty_and_schemes": {
+        "id": "eco_soc_02"
+      },
+      "unemployment_and_employment": {
+        "id": "eco_soc_03"
+      },
+      "hrd_education_health_welfare": {
+        "id": "eco_soc_04"
+      }
+    }
+  },
+  {
+    "id": "eco_tnpsc_13",
+    "subject": "Tamil Nadu Economy",
+    "topics": {
+      "tn_economy_growth_gsdp": {
+        "id": "eco_tneco_01"
+      },
+      "tn_agriculture": {
+        "id": "eco_tn_02"
+      },
+      "tn_industrial_profile": {
+        "id": "eco_tn_ind_01"
+      },
+      "tn_infrastructure": {
+        "id": "eco_tn_infra_02"
+      },
+      "tn_social_welfare_schemes": {
+        "id": "eco_tn_wel_03"
+      },
+      "tn_social_welfare_schemes_2025_26": {
+        "id": "eco_tn_sch_01"
+      }
+    }
+  },
+  {
+    "id": "tn_soc_jus_1001",
+    "subject": "Social_Justice_and_Socio_Economic_Development",
+    "topics": {
+      "evolution_of_reservation_policy": {
+        "id": "sjs_res_01"
+      },
+      "social_justice_framework": {
+        "id": "sjs_frm_02"
+      },
+      "access_to_social_resources": {
+        "id": "sjs_res_acc_03"
+      },
+      "milestones_in_social_reform": {
+        "id": "sjs_mil_04"
+      },
+      "education_infrastructure_and_growth": {
+        "id": "ehs_edu_infra_01"
+      },
+      "educational_initiatives_and_welfare": {
+        "id": "ehs_edu_init_02"
+      },
+      "public_health_infrastructure": {
+        "id": "ehs_health_infra_03"
+      },
+      "health_indices_and_nutrition_schemes": {
+        "id": "ehs_indices_nutri_04"
+      }
+    }
+  }
+]
